@@ -1,0 +1,719 @@
+,Respondent,Geographic Areas,State,Number of Customers Affected,Outage Start,Outage End
+295,City of Washington - (NC),North Carolina,NC ,12000.0,2012-12-31 14:21:00,2012-12-31 16:30:00
+296,Town of Stantonsburg - (NC),"Stantonsburg, North Carolina",NC ,1200.0,2012-12-26 14:50:00,2012-12-26 19:40:00
+297,CenterPoint Energy,"Houston, Texas",TX TX ,262000.0,2012-12-25 09:28:00,2012-12-26 16:28:00
+298,Entergy,Arkansas; Louisiana; Mississippi; Texas,AR LA MS TX ,242509.0,2012-12-25 00:45:00,2012-12-28 16:15:00
+299,Tacoma Power (TPWR),"Tacoma, Washington",WA ,0.0,2012-12-17 06:55:00,2012-12-17 07:00:00
+300,California Department of Water Resources,"Greater San Jose, California",CA CA ,,2012-12-06 21:18:00,2012-12-06 21:31:00
+301,Tacoma Power (TPWR),"Tacoma, Washington",WA ,0.0,2012-12-03 12:02:00,2012-12-03 12:30:00
+302,Pacific Gas & Electric Co,Northern California,CA ,125000.0,2012-12-02 05:20:00,2012-12-04 09:00:00
+303,ISO New England,New Hampshire,NH ,0.0,2012-11-27 13:07:00,2012-11-27 13:40:00
+304,Delmarva Power & Light Company,"Georgetown, Delaware",DE ,,2012-11-26 15:07:00,2012-11-26 15:08:00
+305,Delmarva Power & Light Company,"Frankfort, Delaware",DE ,0.0,2012-11-26 12:37:00,2012-11-26 12:38:00
+306,Delmarva Power & Light Company,"Bethany Beach, Delaware",DE ,,2012-11-21 14:50:00,2012-11-21 14:51:00
+307,ERCOT,"Comanche Peak, Texas",TX ,0.0,2012-11-17 10:00:00,2012-11-18 10:00:00
+308,ITC Transmission,Iowa; Michigan,IA MI ,,2012-11-15 21:09:00,2012-11-15 21:26:00
+309,ISO New England,Southeast Massachusetts,MA ,0.0,2012-11-15 05:38:00,2012-11-15 05:39:00
+310,Delmarva Power & Light Company,"Bishopville, Maryland",MD ,0.0,2012-11-08 09:34:00,2012-11-08 09:35:00
+311,ISO New England,New Hampshire,NH ,0.0,2012-11-07 14:21:00,2012-11-07 14:48:00
+312,ISO New England,"Concord, Vermont",VT ,0.0,2012-11-02 09:30:00,2012-11-02 12:10:00
+313,Detroit Edison Co,Greater Detroit Michigan,MI MI ,133777.0,2012-10-30 02:00:00,2012-11-01 22:00:00
+314,Black Hills/Colorado Elec.Util,"Pueblo, Colorado",CO ,,2012-10-30 15:00:00,2012-10-30 15:01:00
+315,ISO New England,"Fitzwilliam, New Hampshire",NH ,0.0,2012-10-30 13:20:00,2012-10-30 13:25:00
+316,Potomac Electric Power Company (PEPCO),"Hyattsville, Maryland",MD ,0.0,2012-10-30 00:00:00,2012-10-30 00:02:00
+317,FirstEnergy Corp: Mon Power Company,West Virginia,WV ,208000.0,2012-10-29 00:00:00,2012-11-09 23:59:00
+318,FirstEnergy Corp: CEI,Greater Cleveland Ohio,OH OH ,346000.0,2012-10-29 16:00:00,2012-11-05 23:59:00
+319,FirstEnergy Corp: Met-Ed,Eastern Pennsylvania,PA ,270000.0,2012-10-29 16:00:00,2012-11-07 23:48:00
+320,FirstEnergy Corp: Jersey Central Power & Light,New Jersey,NJ ,217000.0,2012-10-29 12:00:00,2012-11-04 23:00:00
+321,Atlantic City Electric Co,New Jersey,NJ ,,2012-10-29 08:00:00,2012-11-04 23:00:00
+322,PPL Electric Utilities Corp,Central Pennsylvania,PA ,400000.0,2012-10-29 18:11:00,2012-11-04 22:50:00
+323,ISO New England/CONVEX,"Connecticut, Western Massachusetts",CT MA ,649075.0,2012-10-29 15:15:00,2012-11-04 20:00:00
+324,Dominion Virginia Power,Virginia,VA ,156000.0,2012-10-29 18:12:00,2012-10-30 19:35:00
+325,Consolidated Edison Co-NY Inc,"Greater New York City, New York",NY ,818000.0,2012-10-29 16:01:00,2012-11-08 19:00:00
+326,ISO New England obo NSTAR,"Boston, Southeast Massachusetts",MA ,50000.0,2012-10-29 14:40:00,2012-10-30 18:16:00
+327,Delmarva Power & Light Company,"Delaware, Maryland",DE MD ,70000.0,2012-10-29 09:00:00,2012-11-02 18:00:00
+328,FirstEnergy Corp: Potomac Edison,Maryland; West Virginia,MD WV ,150000.0,2012-10-29 16:00:00,2012-11-08 17:08:00
+329,ISO New England,Southeast and Seacoast Maine,ME ,50000.0,2012-10-29 19:15:00,2012-10-30 15:02:00
+330,Nevada Power Company d/b/a NV Energy,"Las Vegas, Nevada",NV ,,2012-10-29 15:00:00,2012-10-29 15:01:00
+331,Long Island Power Authority (LIPA),"Long Island, New York",NY NY ,632816.0,2012-10-29 13:00:00,2012-11-12 14:00:00
+332,PSE&G,New Jersey,NJ ,50000.0,2012-10-29 16:03:00,2012-11-06 12:00:00
+333,Iberdrola USA (NYSEG),New York,NY ,371000.0,2012-10-29 18:48:00,2012-11-04 11:36:00
+334,Baltimore Gas & Electric Company,Greater Baltimore Maryland,MD ,219000.0,2012-10-29 17:13:00,2012-10-31 11:00:00
+335,ISO New England/PSNH,New Hampshire,NH ,50000.0,2012-10-29 16:45:00,2012-10-31 11:00:00
+336,"Orange and Rockland Utilities, Inc.",Southeast New York; New Jersey,NJ NY ,200000.0,2012-10-29 18:46:00,2012-11-03 10:45:00
+337,City of Tacoma (TPWR),"LaGrande, Washington",WA ,0.0,2012-10-29 09:00:00,2012-10-29 09:01:00
+338,American Electric Power,Indiana; Kentucky; Michigan; Ohio,IN KY MI OH ,173273.0,2012-10-29 19:00:00,2012-11-02 05:00:00
+339,ISO New England/REMVEC,Eastern Massachusetts,MA ,50000.0,2012-10-29 14:45:00,2012-11-01 01:30:00
+340,Exelon Corporation/PECO,Greater Philadelphia Pennsylvania,PA ,850000.0,2012-10-29 17:30:00,2012-11-06 00:00:00
+341,Delmarva Power & Light Company,"Newark, Delaware",DE ,0.0,2012-10-25 18:51:00,2012-10-25 19:30:00
+342,Black Hills/Colorado Elec.Util,"Pueblo, Colorado",CO ,0.0,2012-10-25 14:39:00,2012-10-25 18:00:00
+343,Potomac Electric Power Company (PEPCO),"West Lanham, Maryland",MD ,,2012-10-25 00:00:00,2012-10-25 00:01:00
+344,Delmarva Power & Light Company,"Frankford, Delaware",DE ,0.0,2012-10-24 15:15:00,2012-10-24 15:16:00
+345,Potomac Electric Power Company (PEPCO),"Kingswood, Maryland",MD ,0.0,2012-10-24 00:00:00,2012-10-24 00:01:00
+346,Potomac Electric Power Company (PEPCO),"Brighton, Maryland",MD ,0.0,2012-10-24 00:00:00,2012-10-24 00:01:00
+347,"Crawfordsville Electric, Light & Power","Crawfordsville, Indiana",IN ,9800.0,2012-10-23 09:10:00,2012-10-23 09:16:00
+348,Potomac Electric Power Company (PEPCO),"Norbeck, Maryland",MD ,0.0,2012-10-22 00:00:00,2012-10-22 00:01:00
+349,ISO New England,Southeast Vermont,VT ,0.0,2012-10-15 14:15:00,2012-10-15 14:16:00
+350,Pacific Gas & Electric Co,Northern California,CA ,2035.0,2012-10-14 10:36:00,2012-10-14 10:50:00
+351,Potomac Electric Power Company (PEPCO),"Seat Pleasant, Maryland",MD ,0.0,2012-10-11 00:00:00,2012-10-11 00:01:00
+352,Potomac Electric Power Company (PEPCO),"Seat Pleasant, Maryland",MD ,0.0,2012-10-09 00:00:00,2012-10-09 00:01:00
+353,Western Area Power Authority - Sierra Nevada Region,"Greater Sacramento, California",CA CA ,,2012-10-05 17:30:00,2012-10-05 17:50:00
+354,Puerto Rico Electric Power Authority (PREPA),Puerto Rico,PR PR ,371526.0,2012-09-26 21:16:00,2012-09-26 22:18:00
+355,PEPCO (Potomac Electric Power Company),"Brighton, Maryland",MD ,0.0,2012-09-24 00:00:00,2012-09-25 00:00:00
+356,Dominion Virginia Power,Virginia,VA ,119000.0,2012-09-08 15:53:00,2012-09-09 19:46:00
+357,PEPCO (Potomac Electric Power Company),"Prince George's County, Montgomery County Maryland; D.C.",MD ,65000.0,2012-09-08 15:40:00,2012-09-08 18:45:00
+358,Entergy Corp,Arkansas,AR ,64951.0,2012-09-07 21:30:00,2012-09-08 01:00:00
+360,Dixie Electric Membership Corp,Louisiana,LA ,68018.0,2012-08-29 06:53:00,2012-08-30 14:00:00
+361,Cleco Power LLC,Louisiana,LA ,95000.0,2012-08-29 09:48:00,2012-08-31 12:55:00
+362,Louisiana Generating LLC,Louisiana,LA ,50000.0,2012-08-29 09:00:00,2012-08-31 12:00:00
+363,Entergy,"Arkansas, Louisiana, Mississippi",AR LA MS ,770000.0,2012-08-28 06:00:00,2012-09-04 08:00:00
+364,Florida Power & Light,Florida,FL FL ,440000.0,2012-08-26 22:04:00,2012-08-27 02:04:00
+365,El Paso Electric Co,"El Paso, Texas",TX ,3314.0,2012-08-19 08:42:00,2012-08-19 12:08:00
+366,Northern Indiana Public Service Company,Northern Indiana,IN ,0.0,2012-08-16 13:13:00,2012-08-16 13:13:00
+367,WECC Reliability Coordinator,CFE (Mexico & U.S.),,,2012-08-13 15:52:00,2012-08-13 19:44:00
+368,Tennessee Valley Authority,"Knoxville, Tennessee",TN ,,2012-08-13 13:15:00,2012-08-13 13:15:00
+369,"City of Tacoma, TPWR","Tacoma, Washington",WA ,,2012-08-11 12:45:00,2012-08-11 17:00:00
+370,Exelon Corporation/ComEd,Northeast Illinois,IL ,325000.0,2012-08-04 17:30:00,2012-08-05 12:10:00
+371,Northern Indiana Public Service Company,Northern Indiana,IN ,61413.0,2012-08-04 04:00:00,2012-08-04 07:20:00
+372,Pacific Gas & Electric Co,"Temblor Substation in McKittrick, California",CA ,127.0,2012-08-04 03:55:00,2012-08-04 04:21:00
+373,Oklahoma Gas & Electric Co,"Oklahoma, Arkansas",AR OK ,,2012-08-01 12:00:00,2012-08-01 12:00:00
+374,Duke Energy Midwest,Central Indiana,IN ,52702.0,2012-07-27 17:19:00,2012-07-28 17:19:00
+375,PPL Electric Utilities Corp,North/Central Pennsylvania,PA ,65000.0,2012-07-26 18:21:00,2012-07-28 23:30:00
+376,FirstEnergy Corp.: Pennsylvania Electric Company,Western Pennsylvania,PA ,65112.0,2012-07-26 18:14:00,2012-07-27 18:14:00
+377,American Electric Power (AEP),Eastern Ohio,OH ,57054.0,2012-07-26 18:30:00,2012-07-27 17:22:00
+378,Exelon Corporation/ComEd,Northern Illinois,IL ,330000.0,2012-07-24 07:30:00,2012-07-24 22:00:00
+379,Northern Indiana Public Service Company,Northern Indiana,IN ,82621.0,2012-07-24 07:01:00,2012-07-24 16:30:00
+380,Lubbock Power and Light,"City of Lubbock, Texas",TX ,70000.0,2012-07-21 02:19:00,2012-07-21 05:20:00
+381,Delmarva Power & Light Company,"Newark, Delaware",DE ,,2012-07-19 12:32:00,2012-07-19 12:33:00
+382,Somerset Operating Company,"Niagara County, New York",NY ,,2012-07-19 10:30:00,2012-07-31 11:00:00
+383,Duke Energy Midwest,"Southeast Ohio, Northern Kentucky, Southern Indiana",IN KY OH ,103000.0,2012-07-18 14:16:00,2012-07-19 23:58:00
+384,American Electric Power (AEP),Eastern Ohio,OH ,67000.0,2012-07-18 16:20:00,2012-07-18 19:05:00
+385,Exelon Corporation/ComEd,Northern Illinois,IL ,181000.0,2012-07-18 23:00:00,2012-07-19 06:00:00
+386,North Little Rock Electric Department,"Little Rock, Arkansas",AR ,,2012-07-16 11:27:00,2012-07-16 12:29:00
+387,PPL Electric Utilities Corp,"Lower Valley, Central, Susquehanna Regions Pennsylvania",PA ,64500.0,2012-07-07 06:06:00,2012-07-09 23:00:00
+388,FirstEnergy Corp. Jersey Central Power & Light,Central and Northern New Jersey,NJ ,95400.0,2012-07-07 18:00:00,2012-07-09 19:01:00
+389,California Department of Water Resources,CAISO California,CA CA CA ,0.0,2012-07-07 04:00:00,2012-07-10 04:00:00
+390,City of Tacoma - TPWR,"Tacoma, Washington",WA ,,2012-07-06 15:05:00,2012-07-06 15:06:00
+391,Consumers Energy,Lower Peninsula Michigan,MI ,111000.0,2012-07-05 00:00:00,2012-07-06 20:30:00
+392,Tennessee Valley Authority (TVA),Northeast Tennessee,TN ,50001.0,2012-07-05 19:00:00,2012-07-06 16:00:00
+393,North Carolina Municipal Power Agency #1,"Tarboro, North Carolina",NC ,6100.0,2012-07-01 16:47:00,2012-07-01 23:00:00
+394,"Progress Energy, Carolinas","Northern, Central and Eastern North Carolina",NC ,69106.0,2012-07-01 17:45:00,2012-07-01 22:15:00
+395,Exelon Corporation/ComEd,Illinois,IL ,320000.0,2012-07-01 13:00:00,2012-07-03 15:00:00
+396,Atlantic City Electric,Atlantic City Electric Service Territory New Jersey,NJ ,205000.0,2012-06-30 01:15:00,2012-07-07 17:33:00
+397,Tennessee Valley Authority (TVA),Northeast Tennessee,TN ,,2012-06-30 15:00:00,2012-07-02 12:00:00
+398,"Southern Maryland Electric Cooperative, Inc.","Calvert, Charles, St. Mary's, Prince Georges Counties Maryland",MD ,60000.0,2012-06-30 22:30:00,2012-07-02 08:11:00
+399,Delmarva Power & Light Company,Delaware; Maryland,DE MD ,86390.0,2012-06-30 01:00:00,2012-07-03 01:00:00
+400,Duke Energy Midwest,Eastern Indiana; Northern Kentucky; Greater Cincinnati area Ohio,IN KY OH ,4645572.0,2012-06-29 17:15:00,2012-07-02 23:59:00
+401,Entergy,"Eastern, Arkansas",AR ,7935.0,2012-06-29 16:00:00,2012-06-29 21:00:00
+402,FirstEnergy (Potomac Edison),Maryland; West Virginia,MD WV ,145000.0,2012-06-29 19:00:00,2012-07-07 19:43:00
+403,Dayton Power & Light,"Dayton, Ohio",OH ,175000.0,2012-06-29 14:10:00,2012-07-04 18:00:00
+404,Puerto Rico Electric Power Authority (PREPA),Puerto Rico,PR PR ,900000.0,2012-06-29 12:10:00,2012-06-29 17:02:00
+405,American Electric Power (AEP),Indiana; Michigan; Ohio; West Virginia,IN MI OH WV ,1355919.0,2012-06-29 16:00:00,2012-07-02 16:00:00
+406,Dominion,Virginia,VA ,880000.0,2012-06-29 22:29:00,2012-07-04 15:36:00
+407,Pepco,"Montgomery and Prince Georges Counties, Maryland; District of Columbia",MD ,425000.0,2012-06-29 22:15:00,2012-07-05 12:52:00
+408,Baltimore Gas & Electric Company (BGE),"Greater Baltimore area, Maryland",MD ,600000.0,2012-06-29 22:43:00,2012-07-05 11:50:00
+409,Delmarva Power & Light Company,"New Castle, Delaware",DE ,0.0,2012-06-29 10:45:00,2012-06-29 10:45:00
+410,FirstEnergy (Mon Power),West Virginia,WV ,265000.0,2012-06-29 18:24:00,2012-07-06 10:00:00
+411,Exelon Corporation/ComEd,Northeast Illinois,IL ,109000.0,2012-06-29 23:30:00,2012-06-30 02:00:00
+412,Dominion,Central Virginia,VA ,190000.0,2012-06-25 16:04:00,2012-06-26 13:45:00
+413,ISO New England,"North Shore, Massachusetts",MA ,29250.0,2012-06-23 18:57:00,2012-06-23 19:28:00
+414,Xcel Energy,"Minneapolis/St. Paul, Minnesota",MN ,68200.0,2012-06-19 04:30:00,2012-06-20 23:00:00
+415,California Department of Water Resources,CAISO Territory California,CA CA CA ,,2012-06-19 05:30:00,2012-06-21 05:30:00
+416,Public Service Company of New Mexico,"San Juan County, New Mexico",NM ,0.0,2012-06-13 16:55:00,2012-06-13 22:09:00
+417,CenterPoint Energy,"Houston, Texas",TX TX ,175000.0,2012-06-12 15:57:00,2012-06-14 04:57:00
+418,Southern Company,North/Central Alabama; North/Central Georgia,AL GA ,110591.0,2012-06-11 19:50:00,2012-06-12 15:00:00
+419,Public Service Company of Colorado,"Denver Metro Area, Colorado",CO ,30379.0,2012-06-08 17:20:00,2012-06-08 17:25:00
+420,Potomac Electric Power Company (PEPCO),"Columbia Heights, NW, Washington DC",WA ,0.0,2012-06-06 12:37:00,2012-06-06 12:37:00
+421,New York Power Authority,"Delhi, New York",NY ,,2012-06-06 08:00:00,2012-06-06 08:00:00
+422,Pacific Gas and Electric Company,"San Francisco, California",CA CA ,,2012-06-02 07:30:00,2012-06-02 11:35:00
+423,American Electric Power (AEP),"Columbus, Ohio",OH ,0.0,2012-05-31 23:45:00,2012-06-01 04:30:00
+424,Tacoma Power (TPWR),"Alder Dam, Pierce County, Washington",WA ,,2012-05-29 18:30:00,2012-05-29 19:40:00
+425,Oklahoma Gas & Electric,"Oklahoma City Metro Area, Oklahoma",OK ,112000.0,2012-05-29 20:35:00,2012-05-31 10:00:00
+426,ISO New England,"Tyngsborough, Massachusetts",MA ,,2012-05-24 15:20:00,2012-05-25 17:29:00
+427,Tacoma Power (TPWR),"Lakewood, Washington",WA ,,2012-05-11 11:05:00,2012-05-11 11:20:00
+428,American Electric Power (AEP),Eastern Ohio,OH ,1.0,2012-05-07 17:45:00,2012-05-07 18:06:00
+429,ISO New England,"Williston, Vermont",VT ,0.0,2012-05-07 12:50:00,2012-05-07 14:00:00
+430,Seattle City Light,"Snohomish County, Washington",WA ,,2012-04-23 11:56:00,2012-04-23 15:35:00
+431,Northern Indiana Public Service Company (NIPSCO),Northwest Indiana,IN ,,2012-04-23 08:11:00,2012-04-23 12:47:00
+432,ISO New England,"East Bridgewater, Massachusetts",MA ,,2012-04-21 15:02:00,2012-04-21 20:09:00
+433,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-04-21 20:55:00,2012-04-23 16:30:00
+434,CenterPoint Energy,"Metropolitan Houston, Texas",TX TX ,120377.0,2012-04-20 14:27:00,2012-04-21 04:27:00
+435,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-04-19 07:53:00,2012-04-19 16:00:00
+436,San Diego Gas & Electric Company,"San Diego County, California",CA CA ,0.0,2012-04-17 06:11:00,2012-04-17 17:48:00
+437,"Detroit Edison, Subsidiary of DTE Energy","Southeast, Michigan",MI MI ,111393.0,2012-04-16 15:46:00,2012-04-19 02:00:00
+438,Southern Company,Georgia,GA ,,2012-04-15 19:38:00,2012-04-15 21:26:00
+439,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-04-12 08:08:00,2012-04-12 16:30:00
+440,North Attleborough Electric Department,"North Attleboro, Massachusetts",MA ,0.0,2012-04-11 09:00:00,2012-04-11 09:00:00
+441,Delmarva Power & Light Company,"Newark, Delaware",DE ,0.0,2012-04-07 14:35:00,2012-04-07 14:36:00
+442,Delmarva Power & Light Company,"Newark, Delaware",DE ,0.0,2012-04-07 12:25:00,2012-04-07 12:26:00
+443,Delmarva Power & Light Company,"Newark, Delaware",DE ,0.0,2012-04-07 09:31:00,2012-04-07 09:32:00
+444,Western Area Power Authority - Sierra Nevada Region (WASN),"WAPA-SNR Regional Office, California",CA PA WA ,,2012-04-04 15:32:00,2012-04-06 15:30:00
+445,Seattle City Light,"Seattle, Washington",WA ,0.0,2012-04-03 15:33:00,2012-04-03 20:25:00
+446,ISO New England,"West Rutland, Vermont",VT ,0.0,2012-04-03 11:10:00,2012-04-03 11:25:00
+447,Mid American Energy Company,"Council Bluffs, Iowa",IA ,0.0,2012-04-01 20:27:00,2012-04-03 08:28:00
+448,ISO New England,Vermont,VT ,,2012-03-30 11:10:00,2012-03-30 11:30:00
+449,Lansing Board of Water & Light,"Lansing, Michigan",MI ,0.0,2012-03-29 12:01:00,2012-03-29 12:02:00
+450,Tacoma Power (TPWR),"Graham, Washington",WA ,,2012-03-28 10:17:00,2012-03-28 10:17:00
+451,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-03-26 13:24:00,2012-03-26 13:24:00
+452,Delmarva Power & Light Company,"Newark, Delaware",DE ,0.0,2012-03-23 19:34:00,2012-03-23 19:34:00
+453,CenterPoint Energy,"Houston, Texas",TX TX ,96000.0,2012-03-20 08:00:00,2012-03-20 13:00:00
+454,Delmarva Power & Light Company,"New Castle, Delaware",DE ,0.0,2012-03-16 16:00:00,2012-03-16 16:00:00
+455,Entergy Corporation,Texas,TX ,,2012-03-04 13:38:00,2012-03-05 11:00:00
+456,Potomac Electric Power (Pepco Holdings Inc.),"Prince Georges County, Maryland",MD ,,2012-03-04 01:27:00,2012-03-04 06:58:00
+457,Consumers Energy,"Lower Peninsula, Michigan",MI ,140000.0,2012-03-02 21:00:00,2012-03-04 17:30:00
+458,"Detroit Edison, Subsidiary of DTE Energy","Southeastern, Michigan",MI MI ,130000.0,2012-03-02 21:00:00,2012-03-05 16:30:00
+459,"City of Piggott, Arkansas","Piggott, Arkansas",AR ,,2012-03-02 13:45:00,2012-03-02 15:30:00
+460,Tennessee Valley Authority (TVA),Northern Alabama; Southeast Tennessee,AL TN ,,2012-03-02 12:37:00,2012-03-05 12:01:00
+461,Coos Curry Electric Cooperative,Coos County Oregon,OR ,,2012-02-28 07:00:00,2012-02-28 07:00:00
+462,Pacific Gas and Electric,"Sacramento, California",CA CA ,1.0,2012-02-28 02:59:00,2012-02-28 06:12:00
+463,Tacoma Power (TPWR),"Spanaway, Washington",WA ,,2012-02-24 11:24:00,2012-02-24 11:49:00
+464,City of College Station,"South East College Station, Texas",TX ,0.0,2012-02-23 05:45:00,2012-02-23 15:02:00
+465,ISO New England,"Londonderry, New Hampshire",NH ,0.0,2012-02-23 23:12:00,2012-02-24 01:00:00
+466,American Electric Power,"Kentucky, Virginia, West Virginia",KY VA WV ,90000.0,2012-02-19 17:00:00,2012-02-21 07:33:00
+467,"Entergy Services, Inc","Little Rock, Arkansas",AR ,,2012-02-17 03:00:00,2012-02-17 11:33:00
+468,Puget Sound Energy,"Port Orchard, Washington",WA WA ,0.0,2012-02-15 05:33:00,2012-02-15 17:30:00
+469,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-02-14 19:20:00,2012-02-15 16:00:00
+470,Progress Energy Carolinas,"Asheville, North Carolina",NC ,,2012-02-13 07:02:00,2012-02-13 16:25:00
+471,Xcel Energy (Public Service Company of Colorado),"Lamar, Colorado",CO ,0.0,2012-02-11 08:47:00,2012-02-11 10:30:00
+472,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-02-11 08:55:00,2012-02-11 08:55:00
+473,Tacoma Power (TPWR),"Roosevelt Substation, Tacoma, Washington",WA ,,2012-01-29 12:45:00,2012-01-29 12:45:00
+474,Tacoma Power (TPWR),"Frederickson Substation, Spanaway, Washington",WA ,,2012-01-27 09:40:00,2012-01-27 09:40:00
+475,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-01-24 11:22:00,2012-01-24 11:22:00
+476,Puget Sound Energy,"King, Pierce and Thurston Counties, Washington",WA WA ,426000.0,2012-01-19 07:00:00,2012-01-20 15:00:00
+477,"Pedernales Electric Cooperative, Inc.","Austin, Texas",TX ,0.0,2012-01-17 10:31:00,2012-01-17 17:21:00
+478,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-01-15 09:35:00,2012-01-15 09:35:00
+479,Delmarva Power & Light Company,"Newark, Delaware",DE ,0.0,2012-01-13 09:20:00,2012-01-13 09:20:00
+480,Delmarva Power & Light Company,"Newark, Delaware",DE ,0.0,2012-01-12 08:26:00,2012-01-12 08:26:00
+481,Nevada Power Company (NV Energy),Nevada,NV ,0.0,2012-01-11 07:19:00,2012-01-11 09:07:00
+482,Luminant Energy Company LLC,"Rusk County, Texas",TX ,,2012-01-10 21:30:00,2012-01-10 21:30:00
+483,ISO New England/Convex,"Watertown, Connecticut",CT ,,2012-01-09 14:30:00,2012-01-09 15:30:00
+484,The Dow Chemical Company,Louisiana,LA ,1.0,2012-01-09 13:36:00,2012-01-11 01:05:00
+485,American Electric Power,"CSWS/AEP West territory, Oklahoma",OK ,0.0,2012-01-05 10:35:00,2012-01-05 12:25:00
+486,Oklahoma Gas and Electric,"Creek County, Oklahoma",OK ,,2012-01-05 10:28:00,2012-01-05 12:25:00
+487,Tacoma Power (TPWR),"Tacoma, Washington",WA ,,2012-01-04 12:14:00,2012-01-04 12:14:00
+488,City of Tacoma (TPWR),"Tacoma, Washington",WA ,,2011-12-31 21:26:00,2011-12-31 21:26:00
+489,Idaho Power Company,"Boise, Idaho",ID ,0.0,2011-12-21 10:30:00,2011-12-21 10:30:00
+490,City of Tacoma (TPWR),"Tacoma, Washington",WA ,,2011-12-20 09:30:00,2011-12-20 09:31:00
+491,PacifiCorp,"Sweet Home, Oregon",OR ,2500.0,2011-12-20 07:45:00,2011-12-20 08:45:00
+492,City of Tacoma (TPWR),"Croft Substation, Tacoma, Washington",WA ,,2011-12-19 08:48:00,2011-12-19 16:00:00
+493,Dayton Power & Light,Clinton County Ohio,OH ,0.0,2011-12-13 03:19:00,2011-12-14 03:19:00
+494,City of Tacoma (TPWR),"Tacoma, Washington",WA ,,2011-12-08 08:45:00,2011-12-08 16:30:00
+495,Dominion Virginia Power,Central Virginia,VA ,60000.0,2011-12-07 19:29:00,2011-12-07 22:57:00
+496,Montana Dakota Utilities,"Bismarck-Mandan, North Dakota",ND ,34500.0,2011-12-06 08:00:00,2011-12-06 20:00:00
+497,ITC Holdings,"Montague, Michigan",MI ,0.0,2011-12-06 17:38:00,2011-12-07 11:04:00
+498,City of Tacoma (TPWR),"Tacoma, Washington",WA ,,2011-12-05 14:00:00,2011-12-06 17:00:00
+499,Luminant Energy Company LLC,Rusk County Texas,TX ,,2011-12-02 16:15:00,2011-12-02 20:30:00
+500,Southern California Edison (SCE),Southern California,CA CA ,91690.0,2011-12-01 00:45:00,2011-12-07 21:00:00
+501,PacifiCorp,Wasatch Front Area Utah,UT ,60000.0,2011-12-01 10:00:00,2011-12-02 13:11:00
+502,Pacific Gas and Electric,Northern California,CA ,100000.0,2011-12-01 03:29:00,2011-12-02 13:05:00
+503,City of Tacoma - TPWR,"Orchard Substation, Washington",WA ,0.0,2011-11-30 10:00:00,2011-11-30 11:00:00
+504,Los Angeles Department of Water and Power,"City of Los Angeles, California",CA CA ,150000.0,2011-11-30 16:56:00,2011-12-02 10:00:00
+505,Northern Indiana Public Service Co,Indiana,IN ,0.0,2011-11-22 23:16:00,2011-11-22 23:16:00
+506,Atlantic City Electric,"McKee, New Jersey",NJ ,0.0,2011-11-14 14:24:00,2011-11-14 14:24:00
+507,ISO New England / obo Public Service of New Hampshire,"Cate Road, Deerfield, New Hampshire",NH ,0.0,2011-11-13 11:30:00,2011-11-13 12:00:00
+508,PacifiCorp,"Sweetwater County, Wyoming",WY ,0.0,2011-11-04 10:46:00,2011-11-04 10:46:00
+509,PPL Electric Utilities,"Harrisburg, Lehigh Valley, Lancaster Region Pennsylvania",PA ,146721.0,2011-10-29 12:57:00,2011-11-03 23:00:00
+510,"Consolidated Edison Company of NY, Inc",New York City area,NY ,50000.0,2011-10-29 16:16:00,2011-11-02 21:30:00
+511,"Orange and Rockland Utilities, Inc",New Jersey; New York,NJ NY ,74000.0,2011-10-29 20:00:00,2011-10-31 20:00:00
+512,Metropolitan Edison Company,Pennsylvania,PA ,312359.0,2011-10-29 08:59:00,2011-11-07 19:58:00
+513,ISO New England,Connecticut; Maine; Massachusetts; New Hampshire; Rhode Island,CT ME MA NH RI ,1418100.0,2011-10-29 16:14:00,2011-11-07 16:00:00
+514,Potomac Edison,Pennsylvania,PA ,50000.0,2011-10-29 08:59:00,2011-11-07 15:00:00
+515,Exelon Corporation/PECO,Southeast Pennsylvania,PA ,109335.0,2011-10-29 14:00:00,2011-10-31 14:00:00
+516,Jersey Central Power & Light Company,Northwest and Central New Jersey,NJ ,379000.0,2011-10-29 09:59:00,2011-11-07 13:00:00
+517,Public Service Electric and Gas Company,New Jersey,NJ ,197000.0,2011-10-29 14:30:00,2011-11-06 12:00:00
+518,Central Hudson Gas & Electric Corp.,"Mid-Hudson Valley Region, New York",NY ,145000.0,2011-10-29 15:00:00,2011-11-02 08:15:00
+519,New York State Elec & Gas Corp,Southeast New York,NY ,161151.0,2011-10-29 11:18:00,2011-11-04 00:00:00
+520,Midwest ISO,"Munster, Indiana",IN ,,2011-10-27 01:00:00,2011-10-27 02:36:00
+521,Public Service Company of Colorado,"Denver; Ft. Collins, Colorado",CO ,204000.0,2011-10-26 05:00:00,2011-10-27 15:00:00
+522,PJM Interconnection,"Holmesburg Substation, Philadelphia, Pennsylvania",PA ,0.0,2011-10-24 23:37:00,2011-10-26 23:00:00
+523,Atlantic City Electric,"McKee, New Jersey",NJ ,0.0,2011-10-20 07:15:00,2011-10-20 07:15:00
+524,PECO Energy,"Holmesburg Substation, Philadelphia, Pennsylvania",PA ,0.0,2011-10-18 03:45:00,2011-10-18 05:25:00
+525,Duke Energy,Southwest Ohio,OH ,2000.0,2011-10-17 15:44:00,2011-10-17 15:44:00
+526,Potomac Electric Power Company,"Seat Pleasant, Maryland",MD ,0.0,2011-10-17 03:34:00,2011-10-17 10:42:00
+527,Atlantic City Electric,"English Creek, New Jersey",NJ ,0.0,2011-10-14 14:20:00,2011-10-14 14:20:00
+528,City of Tacoma - TPWR,"Olympic Pipeline, Spanaway, Washington",WA ,,2011-10-07 08:04:00,2011-10-07 16:00:00
+529,PacifiCorp,"Oquirrh Substation, Utah",UT ,0.0,2011-10-06 11:07:00,2011-10-06 11:07:00
+530,Delmarva Power & Light Company,"Wilmington, Delaware",DE ,0.0,2011-09-30 08:22:00,2011-09-30 08:22:00
+531,City of Tacoma (TPWR),"Collins Substation, Tacoma, Washington",WA ,,2011-09-29 18:44:00,2011-09-30 16:00:00
+532,CenterPoint Energy,"Houston metro area, Texas",TX TX ,65000.0,2011-09-29 05:00:00,2011-09-30 06:00:00
+533,Delmarva Power & Light Company,"Bethany Beach, Delaware",DE ,0.0,2011-09-28 16:41:00,2011-09-28 16:41:00
+534,Atlantic City Electric,"Dorothy, New Jersey",NJ ,0.0,2011-09-28 14:59:00,2011-09-28 14:59:00
+535,ISO New England/Convex,"Watertown, Connecticut",CT ,,2011-09-28 09:30:00,2011-09-28 13:00:00
+536,Atlantic City Electric,"McKee City, New Jersey",NJ ,0.0,2011-09-26 10:15:00,2011-09-26 10:15:00
+537,City of Tacoma (TPWR),"Collins Substation, Tacoma, Washington",WA ,,2011-09-24 16:17:00,2011-09-25 16:00:00
+538,The United Illuminating Company,"North Haven, Connecticut",CT ,0.0,2011-09-23 09:04:00,2011-09-23 09:04:00
+539,Dayton Power & Light,"Montgomery County, Ohio",OH ,0.0,2011-09-22 14:50:00,2011-09-22 14:51:00
+540,Puerto Rico Electric Power Authority (PREPA),Puerto Rico,PR PR ,319616.0,2011-09-21 14:37:00,2011-09-21 15:47:00
+541,Delmarva Power & Light Company,"Hockessin, Delaware",DE ,0.0,2011-09-21 10:30:00,2011-09-21 10:30:00
+542,City of Tacoma (TPWR),"Lacamas Substaion, Washington",WA ,,2011-09-20 12:55:00,2011-09-20 17:00:00
+543,PacifiCorp,"Salt Lake County, Utah",UT ,0.0,2011-09-14 09:00:00,2011-09-14 14:00:00
+544,New York Power Authority,"Saranac, New York",NY ,0.0,2011-09-13 14:03:00,2011-09-13 18:21:00
+545,City of Tacoma (TPWR),"Lacamas Substation, Roy, Washington",WA ,,2011-09-13 11:43:00,2011-09-14 16:00:00
+546,Atlantic City Electric,"English Creek, New Jersey",NJ ,0.0,2011-09-12 09:15:00,2011-09-12 15:30:00
+547,City of Tacoma (TPWR),"Collins Substation, Tacoma, Washington",WA ,,2011-09-08 19:53:00,2011-09-09 16:00:00
+548,WECC Reliability Coordinator,Arizona; California,AZ CA ,2000000.0,2011-09-08 15:28:00,2011-09-10 15:30:00
+549,ISO New England,Western Connecticut; New York,CT NY ,0.0,2011-09-07 00:08:00,2011-09-07 10:50:00
+550,Southern Company,Alabama; Georgia,AL GA ,53295.0,2011-09-05 16:30:00,2011-09-07 15:45:00
+551,"Detroit Edison, Subsidiary of DTE Energy","Southeast Lower Peninsula, Michigan",MI MI ,105000.0,2011-09-03 14:00:00,2011-09-08 18:00:00
+552,City of Tacoma (TPWR),"Graham Substaion, Washington",WA ,,2011-09-01 08:13:00,2011-09-01 16:00:00
+553,Duke Energy,Southwest Ohio,OH ,0.0,2011-08-31 12:52:00,2011-08-31 12:52:00
+554,PacifiCorp,"Calapooya Substation, Oregon",OR ,0.0,2011-08-28 20:55:00,2011-08-28 23:39:00
+555,"Orange and Rockland Utilities, Inc.",New York,NY ,116000.0,2011-08-28 12:30:00,2011-08-28 12:31:00
+556,ISO New England,Eastern Massachusetts,MA ,50000.0,2011-08-28 12:10:00,2011-08-28 12:11:00
+557,The United illuminating Company,Southwest Connecticut,CT ,158000.0,2011-08-28 07:40:00,2011-08-29 07:40:00
+558,"Consolidated Edison Company of NY, Inc.",Borough's and Westshester County New York,NY ,50000.0,2011-08-28 05:01:00,2011-09-03 05:01:00
+559,Long Island Power Authority,"Long Island, New York",NY NY ,152261.0,2011-08-28 05:00:00,2011-08-30 05:00:00
+560,PPL Electric Utilities,Eastern and Northeastern Pennsylvania,PA ,284000.0,2011-08-28 02:58:00,2011-08-30 02:58:00
+561,FirstEnergy Corp: Jersey Central Power & Light,Northern and Central New Jersey,NJ ,650000.0,2011-08-28 00:30:00,2011-08-30 00:30:00
+562,Public Service Electric and Gas Company,New Jersey,NJ ,665000.0,2011-08-28 00:23:00,2011-08-30 00:23:00
+563,New York State Electric & Gas Corporation,New York,NY ,99700.0,2011-08-28 07:00:00,2011-09-03 00:01:00
+564,Niagara Mohawk Power Corporation,Eastern New York,NY ,100000.0,2011-08-28 09:42:00,2011-08-30 00:01:00
+565,Central Hudson Gas & Electric,"Mid-Hudson, New York",NY ,180000.0,2011-08-28 00:01:00,2011-08-30 00:01:00
+566,Baltimore Gas and Electric Company,Maryland,MD ,760113.0,2011-08-27 20:30:00,2011-09-04 23:30:00
+567,Progress Energy Carolinas,Eastern North Carolina,NC ,285465.0,2011-08-27 02:57:00,2011-08-29 23:30:00
+568,Exelon Corporation / PECO,Pennsylvania,PA ,264000.0,2011-08-27 22:00:00,2011-08-29 22:00:00
+569,Atlantic City Electric Company,Southern New Jersey,NJ ,140000.0,2011-08-27 22:00:00,2011-08-29 16:00:00
+570,Pepco,District of Columbia; Maryland,MD ,220000.0,2011-08-27 23:05:00,2011-08-29 15:30:00
+571,Dominion Virginia Power,North Carolina; Virginia,NC VA ,1000000.0,2011-08-27 10:33:00,2011-08-29 14:00:00
+572,North Carolina Eastern Municipal Power Agency,Eastern North Carolina,NC ,136000.0,2011-08-27 19:00:00,2011-08-29 13:31:00
+573,Delmarva Power & Light Company,Delaware; Maryland,DE MD ,165000.0,2011-08-27 13:00:00,2011-08-29 13:00:00
+574,Southern Maryland Electric Cooperative (SMECO),Maryland,MD ,108000.0,2011-08-27 23:00:00,2011-08-29 08:00:00
+575,Town of Stantonsburg JRO,Wilson County North Carolina,NC ,1200.0,2011-08-27 02:00:00,2011-08-27 05:15:00
+576,FirstEnergy Corp: Metropolitan Edison Company,Pennsylvania,PA ,200717.0,2011-08-26 00:30:00,2011-08-28 00:30:00
+577,FirstEnergy Corp: Cleveland Electric Illuminating Company,"Cleveland area, Ohio",OH OH ,107833.0,2011-08-25 00:30:00,2011-08-28 20:00:00
+578,Central Maine Power Company,Maine,ME ,0.0,2011-08-25 00:01:00,2011-08-25 00:01:00
+579,American Electric Power (AEP),"Arkansas, Louisiana, Texas",AR LA TX ,53064.0,2011-08-24 14:51:00,2011-08-24 22:00:00
+580,ERCOT ISO,Texas,TX ,0.0,2011-08-24 13:20:00,2011-08-29 19:00:00
+581,CenterPoint Energy,"Houston area, Texas",TX TX ,79000.0,2011-08-24 07:45:00,2011-08-25 06:00:00
+582,ERCOT ISO,Texas,TX ,0.0,2011-08-23 15:43:00,2011-08-23 19:00:00
+583,Southwestern Public Service Company,"Southeastern New Mexico,  Texas Panhandle",NM TX ,0.0,2011-08-23 10:30:00,2011-08-23 16:54:00
+584,Dominion Virginia Power,Virginia,VA ,0.0,2011-08-23 13:51:00,2011-08-23 13:51:00
+585,City of Tacoma (TPWR),"Collins Substation, Washington",WA ,,2011-08-22 10:05:00,2011-08-22 16:00:00
+586,Puerto Rico Electric Power Authority (PREPA),Puerto Rico,PR PR ,931000.0,2011-08-21 22:45:00,2011-08-23 22:45:00
+587,"Detroit Edison, Subsidiary of DTE Energy",Southeastern Michigan,MI MI ,65000.0,2011-08-20 17:42:00,2011-08-23 20:00:00
+588,City of Tacoma (TPWR),"Collins Substation, Washington",WA ,,2011-08-18 09:51:00,2011-08-18 16:00:00
+589,PacifiCorp,Utah,UT ,0.0,2011-08-15 02:05:00,2011-08-15 03:40:00
+590,LG&E and KU Energy LLC,Kentucky,KY ,181700.0,2011-08-13 16:41:00,2011-08-14 19:00:00
+591,City of Tacoma (TPWR),"Polk Substation, Tacoma, Washington",WA ,,2011-08-09 10:26:00,2011-08-09 17:00:00
+592,Oklahoma Gas & Electric,Northern and Central Oklahoma,OK ,54000.0,2011-08-08 20:58:00,2011-08-10 16:30:00
+593,City of Tacoma (TPWR),"Collins Substation, Washington",WA ,,2011-08-08 09:35:00,2011-08-08 16:00:00
+594,Oklahoma Municipal Power Authority,Oklahoma,OK ,14500.0,2011-08-08 19:36:00,2011-08-09 12:00:00
+595,Dayton Power & Light,"Greene County, Ohio",OH ,0.0,2011-08-08 09:30:00,2011-08-08 09:30:00
+596,American Electric Power (AEP),"Arkansas, Oklahoma, Texas",AR OK TX ,,2011-08-04 10:30:00,2011-08-04 16:00:00
+597,Grand River Dam Authority,Northeast Oklahoma,OK ,,2011-08-03 16:29:00,2011-08-03 23:40:00
+598,Entergy,Central Arkansas,AR ,0.0,2011-08-03 16:30:00,2011-08-03 21:00:00
+599,AES Somerset LLC,Western New York,NY ,,2011-08-03 10:00:00,2011-08-19 10:00:00
+600,Exelon Corporation/ComEd,"Northeast, Illinois",IL ,71500.0,2011-08-02 21:30:00,2011-08-03 19:00:00
+601,Oklahoma Gas & Electric,Oklahoma,OK ,,2011-08-02 10:15:00,2011-08-03 09:16:00
+602,ERCOT ISO,Texas,TX ,0.0,2011-08-01 15:00:00,2011-08-05 19:00:00
+603,PacificCorp,"Jefferson, Oregon",OR ,,2011-08-01 14:18:00,2011-08-01 14:18:00
+604,City of Tacoma (TPWR),"Fredrickson, Washington",WA ,,2011-07-29 11:46:00,2011-07-29 17:00:00
+605,FirstEnergy Corp: Jersey Central Power & Light,Central New Jersey,NJ ,67900.0,2011-07-29 20:45:00,2011-08-01 04:24:00
+606,City of Tacoma (TPWR),"Spanaway, Washington",WA ,,2011-07-28 19:25:00,2011-07-28 19:25:00
+607,Northern Indiana Public Service Company (NIPSCO),Indiana,IN ,,2011-07-28 13:32:00,2011-07-28 13:32:00
+608,Exelon Corporation/ComEd,"Entire ComEd Territory, Indiana",IN ,201000.0,2011-07-28 00:14:00,2011-07-29 12:00:00
+609,Owensboro Municipal Utilities,"Daviess County, Kentucky",KY ,,2011-07-28 07:26:00,2011-07-29 07:26:00
+610,Tacoma Power (TPWR),"Fife, Washington",WA ,,2011-07-27 12:07:00,2011-07-27 12:08:00
+611,Western Farmers Electric Cooperative,"Backup Control Center, Oklahoma",OK ,0.0,2011-07-26 12:01:00,2011-07-26 12:01:00
+612,Public Service of NH (Northeast Utilities),"Southern, New Hampshire",NH ,0.0,2011-07-24 14:34:00,2011-07-24 15:47:00
+613,Exelon Corporation/ComEd,Illinois,IL ,169000.0,2011-07-23 02:30:00,2011-07-24 09:00:00
+614,Niagara Mohawk Power Corporation (dba National Grid),"Upstate, New York",NY ,,2011-07-22 11:00:00,2011-07-22 18:00:00
+615,PJM Interconnection,Ohio,OH ,23000.0,2011-07-22 11:34:00,2011-07-22 17:26:00
+616,City Water Light and Power,"Springfield, Illinois",IL ,,2011-07-21 13:00:00,2011-07-21 15:00:00
+617,Consumers Energy,"Lower Peninsula, Michigan",MI ,,2011-07-21 12:32:00,2011-07-22 06:30:00
+618,Tacoma Power (TPWR),"Frederickson Substation, Washington",WA ,,2011-07-20 09:10:00,2011-07-20 16:30:00
+619,Central Maine Power Company,Maine,ME ,,2011-07-19 11:45:00,2011-07-19 15:00:00
+620,"Detroit Edison, Subsidiary of DTE Energy",Southeast Michigan,MI MI ,197166.0,2011-07-18 17:00:00,2011-07-24 13:30:00
+621,ERCOT ISO,Texas,TX ,0.0,2011-07-14 11:00:00,2011-07-14 19:00:00
+622,Public Service Company of Colorado,"Pueblo, Colorado",CO ,,2011-07-13 17:19:00,2011-07-13 22:03:00
+623,Gen On,California,CA ,,2011-07-12 20:20:00,2011-07-12 21:30:00
+624,Central Maine Power Company,Maine,ME ,0.0,2011-07-12 12:00:00,2011-07-12 12:00:00
+625,American Electric Power (AEP),"Indiana, Michigan, Ohio",IN MI OH ,120000.0,2011-07-11 14:27:00,2011-07-12 15:50:00
+626,Central Maine Power Company,Maine,ME ,0.0,2011-07-11 13:30:00,2011-07-11 13:30:00
+627,Duke Energy,Southwest Ohio,OH ,0.0,2011-07-11 13:13:00,2011-07-11 13:13:00
+628,"Detroit Edison, Subsidiary of DTE Energy",Michigan,MI MI ,103000.0,2011-07-11 09:00:00,2011-07-11 10:25:00
+629,Exelon Corporation/ComEd,Illinois,IL ,500000.0,2011-07-11 09:00:00,2011-07-11 09:00:00
+630,Consumers Energy,Western and Southern Lower Peninsula Michigan,MI ,85000.0,2011-07-11 11:15:00,2011-07-12 08:15:00
+631,Minnesota Power,"Saginaw, Minnesota",MN ,0.0,2011-07-08 10:00:00,2011-07-08 10:00:00
+632,PJM Interconnection,"PJM Corporate Office, Pennsylvania",PA ,,2011-07-08 10:00:00,2011-07-11 09:00:00
+633,ISO New England,Vermont,VT ,,2011-07-06 09:51:00,2011-07-06 09:52:00
+634,PacifiCorp,West Valley Substation Utah,UT ,0.0,2011-07-05 10:40:00,2011-07-05 11:37:00
+635,Dominion Virginia Power,Virginia,VA ,51580.0,2011-07-04 18:00:00,2011-07-04 21:00:00
+636,"Detroit Edison, Subsidiary of DTE Energy","South East, Lower Peninsula, Michigan",MI MI ,182000.0,2011-07-02 20:15:00,2011-07-06 22:00:00
+637,Dayton Power & Light,Greene County Ohio,OH ,0.0,2011-07-01 16:38:00,2011-07-01 22:38:00
+638,Xcel Energy Northern States Power Company,Southwest and South Central Minnesota,MN ,70000.0,2011-07-01 17:00:00,2011-07-03 20:00:00
+639,ISO New England,"CONVEX Local Control Center, Connecticut",CO CT NV ,0.0,2011-07-01 08:00:00,2011-07-01 08:01:00
+640,Salt River Project,"Phoenix, Arizona",AZ ,160000.0,2011-06-30 14:11:00,2011-06-30 23:25:00
+641,Tacoma Power (TPWR),"Olympic Pipeline Substation, Washington",WA ,0.0,2011-06-30 22:31:00,2011-06-30 22:31:00
+642,Exelon Corporation/ComEd,Illinois,IL ,121000.0,2011-06-30 22:30:00,2011-07-01 17:00:00
+643,Southwestern Public Service,"Panhandle and Muleshoe, Texas",TX ,0.0,2011-06-29 11:30:00,2011-06-29 18:04:00
+644,ERCOT ISO,Texas,TX ,0.0,2011-06-27 15:00:00,2011-06-27 19:00:00
+645,City of Tacoma (TPWR),"Olympic Pipeline Substation, Washington",WA ,,2011-06-27 18:55:00,2011-06-27 18:55:00
+646,AMEREN,Illinois; Missouri,IL MO ,80000.0,2011-06-27 00:00:00,2011-06-29 01:00:00
+647,Southern Company,Alabama; Georgia,AL GA ,90160.0,2011-06-26 18:00:00,2011-06-27 13:00:00
+648,Sunflower Electric Power Corporation,Southwest Kansas,KS ,,2011-06-26 16:46:00,2011-06-27 07:59:00
+649,Southern Company,North/North Central Alabama; Georgia,AL GA ,102275.0,2011-06-24 18:30:00,2011-06-25 01:30:00
+650,ISO New England/Velco,"Highgate, Vermont",VT ,0.0,2011-06-23 08:10:00,2011-06-23 09:00:00
+651,Tacoma Power (TPWR),"Knoble Substation, Spanaway, Washington",WA ,0.0,2011-06-22 20:12:00,2011-06-22 20:12:00
+652,Tennessee Valley Authority (TVA),"Knoxville, Tennessee",TN ,106300.0,2011-06-22 09:46:00,2011-06-22 09:46:00
+653,Southern Company,Alabama; Georgia,AL GA ,75101.0,2011-06-22 19:00:00,2011-06-23 01:00:00
+654,American Electric Power (AEP),AEP Region,,56000.0,2011-06-21 18:30:00,2011-06-22 07:00:00
+655,Exelon Corporation/ComEd,Illinois,IL ,300000.0,2011-06-21 21:45:00,2011-06-23 02:00:00
+656,Tacoma Power (TPWR),"Collins Substation, Washington",WA ,0.0,2011-06-20 10:36:00,2011-06-20 10:36:00
+657,West Memphis Utilities,"Eastern, Arkansas",AR ,,2011-06-18 16:45:00,2011-06-20 23:59:00
+658,Duke Energy Carolinas,North Carolina; South Carolina,NC SC ,70000.0,2011-06-18 17:00:00,2011-06-18 21:33:00
+659,Southern Company,"Northern, Georgia",GA ,93828.0,2011-06-18 15:30:00,2011-06-19 15:42:00
+660,PacifiCorp,"Bingham County, Idaho",ID ,,2011-06-15 16:00:00,2011-06-16 06:30:00
+661,Southern Company,Georgia,GA ,169000.0,2011-06-15 19:15:00,2011-06-16 06:00:00
+662,Duke Energy,"Piedmont, North Carolina",NC ,70135.0,2011-06-15 19:17:00,2011-06-16 01:45:00
+663,Dominion Virginia Power,Virginia,VA ,56000.0,2011-06-12 19:00:00,2011-06-12 20:30:00
+664,Southern California Edison (SCE),"San Antonio Dam Area, Los Angeles County, California",CA CA CA ,0.0,2011-06-09 14:15:00,2011-06-09 14:15:00
+665,ISO New England/Northeast Utilities,"Western, Massachusetts; Connecticut",CT MA ,100000.0,2011-06-09 17:51:00,2011-06-10 12:00:00
+666,Exelon Corporation/ComEd,Illinois,IL ,169000.0,2011-06-09 04:30:00,2011-06-09 12:00:00
+667,Tacoma Power (TPWR),"Fredrickson Substation, Washington",WA ,,2011-06-08 12:58:00,2011-06-08 12:58:00
+668,American Electric Power,Ohio,OH ,52747.0,2011-06-07 14:00:00,2011-06-08 06:00:00
+669,West Memphis Utilities,"Eastern, Arkansas",AR ,13000.0,2011-06-06 15:00:00,2011-06-08 15:00:00
+670,El Paso Electric Company,"El Paso County, Texas; Dona Ana County, New Mexico",NM TX ,162000.0,2011-06-06 00:13:00,2011-06-06 03:15:00
+671,Pacific Gas and Electric,"Melones, California",CA ,5314.0,2011-06-05 20:02:00,2011-06-05 20:55:00
+672,CenterPoint Energy,"Houston Metro-Area, Texas",TX TX ,78000.0,2011-06-05 05:30:00,2011-06-06 01:30:00
+673,Pacific Gas and Electric,"Midway, California",CA ,420.0,2011-06-04 01:17:00,2011-06-04 03:25:00
+674,South Carolina Electric and Gas,"Greater Columbia, South Carolina",SC ,50465.0,2011-06-02 23:45:00,2011-06-04 16:00:00
+675,Consumers Energy,"Mid and Southern Lower Peninsula, Michigan",MI ,113000.0,2011-05-29 18:30:00,2011-05-31 22:00:00
+676,PPL Electric Utilities,Central Pennsylvania,PA ,120001.0,2011-05-26 19:56:00,2011-05-27 18:00:00
+677,Greenwood Utilities Commission,"Greenwood, Mississippi",MS ,10000.0,2011-05-26 01:00:00,2011-05-26 06:00:00
+678,Southern Company,"Southern Balancing Area, Georgia",GA ,218783.0,2011-05-26 18:30:00,2011-05-28 04:44:00
+679,Duke Energy Midwest,Central Indiana,IN ,141000.0,2011-05-25 22:14:00,2011-05-28 11:00:00
+680,Oklahoma Gas & Electric,Central Oklahoma,OK ,54000.0,2011-05-24 16:45:00,2011-05-26 17:00:00
+681,Dominion Virginia Power,Eastern Virginia,VA ,175000.0,2011-05-24 16:35:00,2011-05-25 12:40:00
+682,Edison Mission Generation (Fisk Station),"Chicago, Illinois",IL ,0.0,2011-05-24 09:00:00,2011-05-25 09:10:00
+683,Duke Energy Midwest,"Central, Indiana",IN ,215387.0,2011-05-23 16:45:00,2011-05-25 23:59:00
+684,Ameren,"St. Louis County, Missouri",MO ,70000.0,2011-05-23 12:30:00,2011-05-25 12:30:00
+685,Empire District Electric,"Joplin, Sarcoxie, and Wentworth, Missouri",MO ,20000.0,2011-05-22 17:09:00,2011-05-31 12:01:00
+686,"Terra-Gen Dixie Valley, LLC","Dixie Valley Area, Nevada",NV ,,2011-05-21 17:00:00,2011-05-22 18:34:00
+687,PacifiCorp,"Salt Lake, Utah",UT ,0.0,2011-05-13 06:00:00,2011-05-13 06:00:00
+688,Duke Energy Carolinas,"Charlotte, North Carolina",NC ,71000.0,2011-05-11 00:15:00,2011-05-11 17:20:00
+689,Minnesota Power,"Colbyville, Haines Road and Arrowhead Substations, Minnesota",MN ,0.0,2011-05-11 15:55:00,2011-05-12 13:57:00
+690,PacifiCorp,"Green River, Wyoming",WY ,0.0,2011-05-11 13:35:00,2011-05-11 13:35:00
+691,Central Hudson Gas & Electric Corp.,"North Chelsea Substation, New York",NY ,0.0,2011-05-11 11:00:00,2011-05-11 11:30:00
+692,ISO New England,New Hampshire,NH ,0.0,2011-05-10 13:45:00,2011-05-10 15:00:00
+693,American Electric Power,"Kentucky, West Virginia",KY WV ,58000.0,2011-05-10 22:21:00,2011-05-11 14:25:00
+694,Midwest Independent System Operator (MISO),"Upper Peninsula, Michigan",MI ,78213.0,2011-05-10 03:25:00,2011-05-11 14:10:00
+695,Public Service of New Hampshire,"Milton, New Hampshire",NH ,0.0,2011-05-09 13:11:00,2011-05-09 13:11:00
+696,"Exelon Generation Company, LLC","Holtwood, Pennsylvania",PA ,,2011-05-09 04:08:00,2011-05-09 06:40:00
+697,"Castleton Power, LLC",New York,NY ,0.0,2011-05-08 19:35:00,2011-05-08 19:35:00
+698,PacifiCorp,"Alderwood Substation, Portland, Oregon",OR ,0.0,2011-05-06 06:56:00,2011-05-06 10:30:00
+699,ISO New England,New Hampshire,NH ,0.0,2011-05-05 09:15:00,2011-05-05 09:15:00
+700,"ITC Holdings, Inc.",Michigan,MI ,0.0,2011-05-04 12:20:00,2011-05-04 15:40:00
+701,FirstEnergy Generation,Maryland,MD ,0.0,2011-05-04 13:08:00,2011-05-04 13:25:00
+702,New York Power Authority,"St. Lawrence Power Dam, New York",NY ,0.0,2011-05-03 12:00:00,2011-05-05 12:00:00
+703,Hawaiian Electric Company,Hawaii,HI ,62000.0,2011-05-02 17:06:00,2011-05-02 20:00:00
+704,The United Illuminating Company,"West River Substation, New Haven, Connecticut",CT ,0.0,2011-05-02 14:00:00,2011-05-02 14:00:00
+705,PacifiCorp,"N. Ogden Substation, Ogden, Utah",UT ,0.0,2011-05-02 08:52:00,2011-05-02 10:46:00
+706,FirstEnergy Service Company,"Cleveland area, Ohio",OH OH ,86000.0,2011-04-28 05:00:00,2011-04-30 18:30:00
+707,"Mesquite Power, LLC","Phoenix, Arizona",AZ ,,2011-04-28 16:09:00,2011-04-28 16:10:00
+708,Tennessee Valley Authority,"Alabama, Georgia, Mississippi, Tennessee",AL GA MS TN ,612000.0,2011-04-27 10:00:00,2011-04-29 16:29:00
+709,Southern Company,"Alabama, Florida, Georgia, Mississippi",AL FL GA MS ,426640.0,2011-04-27 08:00:00,2011-05-02 16:03:00
+710,American Electric Power,"Ohio, Tennessee, Virginia",OH TN VA ,69000.0,2011-04-27 22:00:00,2011-04-28 10:00:00
+711,West Memphis Utilities,Eastern Arkansas,AR ,13000.0,2011-04-26 18:14:00,2011-04-28 17:00:00
+712,PacifiCorp,"Salt Lake City, Utah",UT ,0.0,2011-04-26 13:04:00,2011-04-26 14:00:00
+713,Entergy Corporation,Southern Louisiana,LA ,,2011-04-26 05:49:00,2011-04-27 09:59:00
+714,Tennessee Valley Authority,"Alabama, Georgia, Mississippi, Tennessee",AL GA MS TN ,55000.0,2011-04-26 09:51:00,2011-04-28 09:51:00
+715,Entergy Corporation,"Arkansas, Louisiana, Mississippi",AR LA MS ,141700.0,2011-04-25 17:30:00,2011-04-27 18:00:00
+716,Tennessee Valley Authority,Northeast Tennessee,TN ,,2011-04-25 16:33:00,2011-04-25 17:19:00
+717,Ameren,"Metro St. Louis area, Missouri",MO ,55000.0,2011-04-22 21:00:00,2011-04-22 23:00:00
+718,ITC Holdings,"Trenton, Michigan",MI ,,2011-04-21 19:00:00,2011-04-29 19:05:00
+719,PacifiCorp,"Oquirrh Substation, Salt Lake City, Utah",UT ,0.0,2011-04-21 07:15:00,2011-04-21 16:50:00
+720,Duke Energy Midwest,"Indiana, Kentucky, Ohio",IN KY OH ,165711.0,2011-04-20 02:00:00,2011-04-21 12:00:00
+721,City of Ruston & Constellation Energy,"Ruston, Louisiana",LA ,11000.0,2011-04-20 08:07:00,2011-04-20 08:14:00
+722,Ameren Illinois,Illinois,IL ,80000.0,2011-04-19 20:00:00,2011-04-19 22:00:00
+723,Constellation Energy Control and Dispatch,"Osceola, Arkansas",AR ,,2011-04-19 23:13:00,2011-04-20 19:14:00
+724,Tennessee Valley Authority,"Memphis, Tennessee",TN ,105000.0,2011-04-19 23:02:00,2011-04-21 17:32:00
+725,Tacoma Power Water Rail (TPWR),"Graham, Washington",WA ,0.0,2011-04-19 14:01:00,2011-04-19 16:04:00
+726,Memphis Light Gas and Water Division,"Memphis, Tennessee",TN ,64000.0,2011-04-19 22:44:00,2011-04-20 02:00:00
+727,Progress Energy Carolinas Inc,Central and Eastern North Carolina,NC ,220000.0,2011-04-16 14:16:00,2011-04-17 16:30:00
+728,PacifiCorp,"Salt Lake City, Utah",UT ,0.0,2011-04-11 17:40:00,2011-04-11 17:51:00
+729,Delmarva Power & Light Company,"Felton, Delaware",DE ,0.0,2011-04-06 10:50:00,2011-04-06 10:50:00
+730,Duke Energy Carolinas,"North Carolina, South Carolina",NC SC ,256000.0,2011-04-05 02:00:00,2011-04-07 23:00:00
+731,Southern Company,"Alabama, Florida, Georgia, Mississippi",AL FL GA MS ,303434.0,2011-04-04 21:00:00,2011-04-05 23:30:00
+732,Entergy Corporation,"Southeast Arkansas, Southeast Louisiana, Western Mississippi, Eastern Texas",AR LA MS TX ,74645.0,2011-04-04 19:00:00,2011-04-05 20:00:00
+733,American Electric Power (AEP),"Kentucky, West Virginia",KY WV ,52920.0,2011-04-04 19:00:00,2011-04-05 12:00:00
+734,Tennessee Valley Authority,"Davidson County, Tennessee",TN ,73000.0,2011-04-04 14:00:00,2011-04-08 00:01:00
+735,Tennessee Valley Authority,"Memphis, Tennessee",TN ,63000.0,2011-04-04 11:47:00,2011-04-08 00:01:00
+736,Memphis Light Gas and Water Division,"Shelby County, Tennessee",TN ,63000.0,2011-04-04 13:00:00,2011-04-05 00:00:00
+737,Entergy Corporation,Unknown,,0.0,2011-04-03 20:23:00,2011-04-05 15:00:00
+738,Progress Energy Florida (PEF),Central and Western Florida,FL FL ,50000.0,2011-03-31 14:30:00,2011-04-01 23:59:00
+739,Tampa Electric Company,"Greater Tampa Bay, Florida",FL ,87000.0,2011-03-31 11:30:00,2011-03-31 20:30:00
+740,Pacific Gas and Electric,"Sonoma and Central Valley, California",CA ,165000.0,2011-03-27 13:27:00,2011-03-27 17:00:00
+741,American Electric Power - AEP,"Indiana. Kentucky, Michigan, Ohio, Tennessee, Virginia, West Virginia",IN KY MI OH TN VA WV ,60596.0,2011-03-23 18:30:00,2011-03-24 04:55:00
+742,Southern California Edison Company (SCE),Southern California,CA CA ,54332.0,2011-03-21 12:35:00,2011-03-21 14:45:00
+743,ISO New England,"Deerfield, New Hampshire",NH ,,2011-03-21 00:57:00,2011-03-21 02:29:00
+744,Los Angeles Department of Water and Power,"Los Angeles, California",CA CA ,79000.0,2011-03-20 09:44:00,2011-03-21 10:00:00
+745,Pacific Gas and Electric,Northern and Central California,CA ,128000.0,2011-03-19 23:56:00,2011-03-24 19:10:00
+746,Dayton Power & Light,"Greene County, Ohio",OH ,,2011-03-18 09:54:00,2011-03-18 15:34:00
+747,ISO New England,"Deerfield, New Hampshire",NH ,,2011-03-17 07:40:00,2011-03-17 11:00:00
+748,"Entergy Services, Incorporated","The Woodlands, Texas",TX ,,2011-03-15 18:00:00,2011-03-15 19:14:00
+749,Baltimore Gas & Electric,"Baltimore, Maryland",MD ,,2011-03-14 07:30:00,2011-03-14 16:55:00
+750,PacifiCorp,Oregon,OR ,9000.0,2011-03-13 14:20:00,2011-03-14 15:46:00
+751,Pacific Gas and Electric,"Humboldt and Eureka, California",CA ,6800.0,2011-03-11 07:02:00,2011-03-11 09:15:00
+752,ERCOT ISO,Texas,TX ,,2011-03-10 12:03:00,2011-03-11 06:00:00
+753,AES Somerset,Western New York,NY ,,2011-03-08 08:00:00,2001-03-18 09:00:00
+754,PacifiCorp,"Salt Lake City Region, Utah",UT ,0.0,2011-03-06 02:54:00,2011-03-08 08:00:00
+755,AES Somerset,Western New York,NY ,,2011-03-01 08:00:00,2011-03-05 09:30:00
+756,Baltimore Gas & Electric,Maryland,MD ,93000.0,2011-02-25 15:23:00,2011-02-27 18:00:00
+757,Dominion - Virginia Power,Virginia,VA ,50000.0,2011-02-25 15:20:00,2011-02-25 18:00:00
+758,Pacific Gas and Electric,Northern and Central California,CA ,80000.0,2011-02-25 08:00:00,2011-02-28 17:30:00
+759,PacifiCorp,"Salt Lake City, Utah",UT ,0.0,2011-02-25 10:30:00,2011-02-25 10:45:00
+760,American Electric Power (CSWS-SPP),Arkansas,AR ,,2011-02-24 16:51:00,2011-02-24 16:54:00
+761,Consumers Energy,"Southern Lower Peninsula, Michigan",MI ,160000.0,2011-02-20 16:00:00,2011-02-23 16:00:00
+762,Delmarva Power & Light Company,"Harrington, Delaware",DE ,0.0,2011-02-19 16:34:00,2011-02-19 16:34:00
+763,Exelon Corporation/PECO,"Philadelphia area, Pennsylvania",PA ,118000.0,2011-02-19 12:30:00,2011-02-20 04:00:00
+764,City of Roseville (Roseville Electric),"Roseville, California",CA ,0.0,2011-02-17 13:00:00,2011-02-23 16:53:00
+765,Pacific Gas and Electric,Northern and Central California,CA ,80000.0,2011-02-17 01:25:00,2011-02-19 10:13:00
+766,Tacoma Power - TPWR,"LaGrande, Washington",WA ,0.0,2011-02-10 13:00:00,2011-02-10 13:00:00
+767,Tacoma Power - TPWR,"University Place, Washington",WA ,0.0,2011-02-09 14:54:00,2011-02-09 17:00:00
+768,ERCOT ISO,Texas,TX ,,2011-02-09 16:30:00,2011-02-10 12:33:00
+769,CenterPoint Energy,"Western Houston, Texas",TX TX ,60000.0,2011-02-09 03:45:00,2011-02-09 09:12:00
+770,Potomac Electric Power Co/PEPCO Holdings Inc.,"Bowie, Maryland",MD ,0.0,2011-02-03 14:30:00,2011-02-03 14:30:00
+771,ERCOT ISO,Texas,TX ,86013.0,2011-02-03 22:04:00,2011-02-04 12:32:00
+772,San Diego Gas and Electric Company,"San Diego area, California",CA CA ,,2011-02-03 15:00:00,2011-02-04 12:00:00
+773,Exelon Corporation/PECO,"Philadelphia area, Pennsylvania",PA ,213000.0,2011-02-02 03:00:00,2011-02-04 23:59:00
+774,El Paso Electric Company,"Dona Ana and El Paso Counties, Texas and Hudspeth County, New Mexico",NM TX ,178000.0,2011-02-02 07:24:00,2011-02-02 22:23:00
+775,Southwestern Public Service,"Texas Panhandle, Southeastern New Mexico",NM TX ,,2011-02-02 17:00:00,2011-02-03 22:00:00
+776,ERCOT ISO,Texas,TX ,1069730.0,2011-02-02 05:43:00,2011-02-03 10:00:00
+777,Salt River Project,Central Arizona,AZ ,69000.0,2011-02-02 06:22:00,2011-02-02 09:57:00
+778,Exelon Corp/ComEd - Commonwealth Edison,Northern Illinois,IL ,190000.0,2011-02-01 21:00:00,2011-02-02 14:00:00
+779,American Electric Power - Ohio,"Indiana, Ohio",IN OH ,158013.0,2011-02-01 15:00:00,2011-02-03 12:00:00
+780,Duke Energy Midwest,Southwestern Ohio and Indiana,IN OH ,272880.0,2011-01-31 22:00:00,2011-02-03 12:00:00
+781,Delmarva Power & Light Company,"Hockessin, Delaware",DE ,0.0,2011-01-27 09:30:00,2011-01-27 09:30:00
+782,"AES Greenidge, LLC",Central New York,NY ,,2011-01-27 17:00:00,2011-01-30 05:00:00
+783,Dominion - Virginia Power,Northern Virginia,VA ,150084.0,2011-01-26 19:43:00,2011-01-27 18:18:00
+784,Baltimore Gas and Electric Company,Maryland,MD ,234326.0,2011-01-26 18:28:00,2011-01-29 17:00:00
+785,NV Energy,"Carson City, Nevada",NV ,0.0,2011-01-26 09:25:00,2011-01-27 17:00:00
+786,ITC Transmission,Michigan,MI ,0.0,2011-01-26 09:33:00,2011-01-27 15:03:00
+787,Potomac Electric Power Co/ PEPCO Holdings Inc.,"Montgomery and Prince George's County, Maryland and District of Columbia",MD ,210000.0,2011-01-26 17:00:00,2011-01-31 08:00:00
+788,Atlantic City Electric,"Newark, Delaware",DE ,0.0,2011-01-25 03:23:00,2011-01-25 11:00:00
+789,El Paso Electric Company,"Newman Power Plant, Texas",TX ,0.0,2011-01-24 13:20:00,2011-01-24 13:30:00
+790,PacifiCorp,"Franklin County, Idaho",ID ,0.0,2011-01-23 07:00:00,2011-01-23 13:00:00
+791,National Grid,"Whitman, Auburn St Substation, Massachusetts",MA ,0.0,2011-01-18 14:00:00,2011-01-18 14:00:00
+792,JEA,North Florida,FL ,20900.0,2011-01-13 07:21:00,2011-01-13 08:13:00
+793,National Grid,Massachusetts,MA ,80000.0,2011-01-12 06:00:00,2011-01-12 14:00:00
+794,New Athens Generating Co. LLC,"Athens, New York",NY ,0.0,2011-01-11 23:08:00,2011-01-11 23:08:00
+795,AES Cayuga,New York,NY ,,2010-12-30 14:00:00,2010-01-12 06:00:00
+796,Progress Energy Carolinas,Carolina,,42000.0,2010-12-26 08:15:00,2010-12-26 16:15:00
+797,Puget Sound Energy,"Redmond, Washington",WA WA ,92090.0,2010-12-18 05:00:00,2010-12-19 22:00:00
+798,California Department of Water Resources,Southern California,CA CA ,,2010-12-14 07:36:00,2010-12-15 09:00:00
+799,Pacific Gas and Electric,California,CA ,6635.0,2010-12-14 07:20:00,2010-12-14 07:25:00
+800,Detroit Edison,Southeastern Michigan,MI MI ,60175.0,2010-12-12 16:30:00,2010-12-15 14:00:00
+801,Pacific Gas and Electric,California,CA ,7077.0,2010-12-03 21:32:00,2010-12-04 02:00:00
+802,Pacific Gas and Electric,Northern California,CA ,7077.0,2010-11-23 14:01:00,2010-11-23 18:12:00
+803,Puget Sound Energy,"Puget Sound Region, Washington",WA WA ,123535.0,2010-11-22 23:00:00,2010-11-24 20:00:00
+804,Pacific Gas and Electric,Northern and Central California,CA ,60000.0,2010-11-21 01:39:00,2010-11-24 16:46:00
+805,Puget Sound Energy,Puget Sound Region,WA ,149256.0,2010-11-15 23:00:00,2010-11-16 02:14:00
+806,Xcel Energy/Northern States Power Company,Minnesota,MN ,60000.0,2010-11-13 15:00:00,2010-11-14 22:00:00
+807,ISO New England,Maine,ME ,60863.0,2010-11-08 06:47:00,2010-11-08 18:00:00
+808,Pacific Gas and Electric,Northern California,CA ,4.0,2010-11-06 15:53:00,2010-11-06 18:08:00
+809,PacifiCorp,"Rock Springs, Wyoming",WY ,,2010-11-04 09:46:00,2010-11-04 10:47:00
+810,California Department of Water Resources,"Bakersfield, California",CA CA CA ,,2010-10-31 22:26:00,2010-11-01 01:45:00
+811,Pacific Gas and Electric,Northern California,CA ,2674.0,2010-10-27 17:16:00,2010-10-27 17:27:00
+812,Wisconsin Public Service Corporation,Northeast and North Central Wisconsin,WI ,63000.0,2010-10-27 04:00:00,2010-10-27 12:00:00
+813,Consumers Energy,Michigan's Northerly Lower Peninsula,MI ,285000.0,2010-10-27 08:00:00,2010-10-29 07:00:00
+814,Commonwealth Edison,Northern Illinois,IL ,127000.0,2010-10-27 17:00:00,2010-10-29 04:00:00
+815,Xcel Energy/Northern States Power Company,Minnesota,MN ,70000.0,2010-10-26 20:00:00,2010-10-28 22:00:00
+816,Commonwealth Edison,Northern Illinois,IL ,192106.0,2010-10-26 09:00:00,2010-10-28 11:00:00
+817,Los Angeles Department of Water and Power,"City of Los Angeles, California",CA CA ,73514.0,2010-10-05 05:45:00,2010-10-07 06:00:00
+818,Southern California Edison Company,Central and Southern California,CA CA ,,2010-09-27 15:15:00,2010-09-27 18:12:00
+819,Allegheny Power,Western Pennsylvania,PA ,82861.0,2010-09-22 17:38:00,2010-09-24 23:30:00
+820,California Department of Water Resources,"Bakersfield, California",CA CA CA ,,2010-09-22 06:12:00,2010-09-22 23:00:00
+821,Duquesne Light Company,"City of Pittsburgh, Pennsylvania",PA ,52000.0,2010-09-22 16:08:00,2010-09-26 00:00:00
+822,Consumers Energy,Central and Southern Michigan,MI ,138000.0,2010-09-21 21:31:00,2010-09-22 14:30:00
+823,Birchwood Power Facility,"King George County, Virginia",VA ,,2010-09-20 17:00:00,2010-09-20 17:30:00
+824,CPS Energy,"San Antonio, Texas",TX ,340350.0,2010-09-07 14:02:00,2010-09-08 01:27:00
+825,Pacific Gas and Electric,"Pittsburg (Bay Area), California",CA ,15000.0,2010-09-01 10:20:00,2010-09-01 12:44:00
+826,CenterPoint Energy,"Houston, Texas",TX TX ,81586.0,2010-08-23 17:50:00,2010-08-24 09:30:00
+827,Detroit Edison,Southeastern Michigan,MI MI ,80000.0,2010-08-19 18:00:00,2010-08-23 15:30:00
+828,Wisconsin Public Service,"City of Oshkosh, Wisconsin",WI ,7600.0,2010-08-12 15:42:00,2010-08-12 22:10:00
+829,Potomac Electric Power Co.,"District of Columbia, Maryland",MD ,101003.0,2010-08-12 06:45:00,2010-08-12 21:00:00
+830,Nebraska Public Power District,Central Nebraska,NE ,,2010-08-12 08:21:00,2010-08-12 11:00:00
+831,American Electric Power,Ohio,OH ,57000.0,2010-08-11 15:21:00,2010-08-11 12:12:00
+832,AES Greenidge and Cayuga0RFC),Upstate New York,NY ,,2010-08-09 12:00:00,2010-08-16 12:00:00
+833,Potomac Electric Power Co,"District of Columbia, Maryland",MD ,76729.0,2010-08-05 15:30:00,2010-08-05 22:00:00
+834,Dominion - Virginia Power,Northern Virginia,VA ,145157.0,2010-08-05 15:54:00,2010-08-08 00:00:00
+835,Southwestern Public Service Company,"Northern Texas, Eastern New Mexico",NM TX ,,2010-08-04 12:00:00,2010-08-04 22:00:00
+836,American Electric Power,"Ohio, West Virginia, Kentucky",PA WV ,37000.0,2010-08-04 17:00:00,2010-08-06 04:00:00
+837,Allegheny Power,"Western Pennsylvania, Northwestern and Central West Virginia",PA VA WV ,11186.0,2010-08-04 16:45:00,2010-08-07 00:00:00
+838,California Department of Waters Resources,Central California,CA CA ,,2010-08-02 12:00:00,2010-08-02 23:00:00
+839,Cleco Power LLC,Southern Louisiana,LA ,,2010-08-02 12:45:00,2010-08-04 11:00:00
+840,Entergy,Southern Louisiana,LA ,,2010-08-02 12:45:00,2010-08-04 11:00:00
+841,Southwest Louisiana Electric Membership Corporation,Southwestern Louisiana,LA ,,2010-08-02 12:45:00,2010-08-04 11:00:00
+842,Lafayette Utilities Systems,Southern Louisiana,LA ,,2010-08-02 12:45:00,2010-08-04 11:00:00
+843,Dominion - Virginia Power,Virginia,VA ,55000.0,2010-07-29 17:43:00,2010-07-29 20:07:00
+844,Southern California Edison Company,Southern California,CA CA ,,2010-07-29 18:39:00,2010-07-29 19:26:00
+845,California Independent System Operator,Southern California,CA CA ,,2010-07-29 18:39:00,2010-07-29 19:26:00
+846,Potomac Electric Power Co,"Washington, DC Region",WA ,297700.0,2010-07-25 15:10:00,2010-07-30 23:30:00
+847,Dominion - Virginia Power,Northern Virginia,VA ,81000.0,2010-07-25 16:11:00,2010-07-25 20:06:00
+848,Baltimore Gas and Electric,Central Maryland,MD ,124000.0,2010-07-25 15:20:00,2010-07-27 18:00:00
+849,Pacificorp,Northern Utah,UT ,,2010-07-23 10:00:00,2010-07-24 23:55:00
+850,Detroit Edison,Southeastern Michigan,MI MI ,82000.0,2010-07-23 19:30:00,2010-07-26 18:30:00
+851,ISO New England,Connecticut,CT ,50100.0,2010-07-21 18:44:00,2010-07-21 20:00:00
+852,Xcel Energy,Minnesota,MN ,63000.0,2010-07-17 20:30:00,2010-07-19 22:00:00
+853,Detroit Edison,Southeastern Michigan,MI MI ,127534.0,2010-07-15 19:00:00,2010-07-19 23:30:00
+854,"PJM Interconnection, LLC","York, South Central Pennsylvania",PA ,43903.0,2010-07-07 16:13:00,2010-07-07 22:29:00
+855,Delmarva Power & Light Company,"Newark, DE",DE ,18400.0,2010-07-06 03:47:00,2010-07-06 04:37:00
+856,Pacific Gas and Electric,Northern California,CA ,,2010-06-25 23:36:00,2010-06-26 01:38:00
+857,PECO,Southeastern Pennsylvania,PA ,355000.0,2010-06-24 15:30:00,2010-06-29 23:59:00
+858,Atlantic City Electric,Southwestern New Jersey,NJ ,150000.0,2010-06-24 15:00:00,2010-06-29 12:00:00
+859,Commonwealth Edison,"Chicago, IL",IL ,300000.0,2010-06-23 17:00:00,2010-06-25 13:40:00
+860,Northern Indiana Public Service Company,Northwest Indiana,IN ,53000.0,2010-06-23 17:48:00,2010-06-24 02:21:00
+861,Entergy,West/Central Arkansas,AR ,25159.0,2010-06-22 15:34:00,2010-06-22 19:00:00
+862,Duke Energy Midwest,"Cincinnati, OH",OH ,50636.0,2010-06-21 13:48:00,2010-06-22 20:31:00
+863,Detroit Edison,"Detroit, MI",MI MI ,150000.0,2010-06-18 20:00:00,2010-06-22 19:30:00
+864,Commonwealth Edison,"Chicago, IL",IL ,400000.0,2010-06-18 16:00:00,2010-06-20 13:00:00
+865,American Electric Power,"Indiana, Michigan",IN MI ,79000.0,2010-06-18 20:00:00,2010-06-21 10:45:00
+866,Consumers Energy,Southern Portion of Lower Michigan,MI ,100000.0,2010-06-18 19:00:00,2010-06-19 05:00:00
+867,Northern Indiana Public Service Company,Northwest Indiana,IN ,94345.0,2010-06-18 15:30:00,2010-06-20 00:30:00
+868,Louisiana Energy and Power Authority,"Morgan City, LA",LA ,,2010-06-17 08:30:00,2010-06-17 17:47:00
+869,Entergy,Southern Louisiana,LA ,,2010-06-17 09:30:00,2010-06-17 17:17:00
+870,Cleco Power LLC,Southern Louisiana,LA ,,2010-06-17 09:30:00,2010-06-17 16:40:00
+871,Southwest Louisiana Electric Membership Corporation,Southwestern Louisiana,LA ,,2010-06-17 09:30:00,2010-06-17 16:40:00
+872,Western Area Power Administration,Eastern Montana,MT ,,2010-06-17 10:49:00,2010-06-17 11:02:00
+873,Orange and Rockland Utilities,New York (Rockland and Orange Counties),NY ,,2010-06-16 11:11:00,2010-06-16 11:32:00
+874,North Carolina Eastern Municipal Power Agency,"Edenton, NC",NC ,4196.0,2010-06-09 14:18:00,2010-06-09 15:00:00
+875,Centerpoint Energy,Southeastern Texas,TX ,79741.0,2010-06-08 11:00:00,2010-06-08 17:00:00
+876,Public Service Company of Colorado,Denver Metropolitan Area,CO ,31000.0,2010-06-07 18:29:00,2010-06-08 01:00:00
+877,Pacific Gas and Electric,Northern California,CA ,2650.0,2010-06-06 04:45:00,2010-06-06 05:35:00
+878,CPS Energy,"San Antonio, TX",TX ,126000.0,2010-06-02 20:18:00,2010-06-04 08:00:00
+879,Southern Indiana Gas and Electric Company,Southwestern Indiana,IN ,1.0,2010-06-01 22:03:00,2010-06-18 00:30:00
+880,Allegheny Power,"Maryland, Pennsylvania, West Virginia, Virginia",MD PA VA WV ,,2010-05-26 11:45:00,2010-05-26 15:00:00
+881,California Department of Water Resources,Central California,CA CA ,,2010-05-18 08:15:00,2010-05-18 22:46:00
+882,Tennesse Valley Authority,Tennessee and Mississippi,MS TN ,50500.0,2010-05-02 14:40:00,2010-05-09 19:30:00
+883,North Carolina Eastern Municipal Power Agency,"Rocky Mount, NC",NC ,29376.0,2010-04-27 14:55:00,2010-04-27 14:55:00
+884,Dow Chemical Co,"Iberville, Parish, Louisiana",LA ,,2010-04-21 15:05:00,2010-04-21 20:00:00
+885,Allegheny Power,Southwestern Pennsylvania,PA ,120000.0,2010-04-16 17:15:00,2010-04-18 17:00:00
+886,San Diego Gas & Electric Company,San Diego and Orange Counties,CA ,290000.0,2010-03-31 23:59:00,2010-04-01 00:55:00
+887,California Independent System Operator,San Diego,CA CA ,,2010-03-31 23:59:00,2010-04-01 00:38:00
+888,ISO New England,Connecticut,CT ,50246.0,2010-03-13 12:00:00,2010-03-15 20:05:00
+889,Exelon Corporation/PECO,Southeasten Pennsylvania,PA ,177528.0,2010-03-13 01:00:00,2010-03-16 18:40:00
+890,Long Island Power Authority,Long Island,NY ,153000.0,2010-03-13 15:00:00,2010-03-17 16:00:00
+891,Public Service Electric & Gas Company,"Southern, Central and Northern New Jersey",NJ ,360000.0,2010-03-13 18:00:00,2010-03-20 12:59:00
+892,Consolidated Edison of NY,New York City and Westchester County,NY ,173000.0,2010-03-13 18:00:00,2010-03-20 09:00:00
+893,Jersey Central Power and Light Company,Central New Jersey and Northern New Jersey,NJ ,180000.0,2010-03-13 16:00:00,2010-03-16 00:00:00
+894,Orange and Rockland Utilities Inc,"Southeastern New York, Northern New Jersey",NJ NY ,65000.0,2010-02-25 00:01:00,2010-02-26 21:00:00
+895,Consolidated Edison of NY,New York City,NY ,55000.0,2010-02-25 17:00:00,2010-03-02 19:00:00
+896,ISO New England,Southern Maine and New Hampshire,ME NH ,509606.0,2010-02-25 23:53:00,2010-03-01 16:40:00
+897,Central Hudson Gas & Electric Corp,Upstate New York,NY ,150000.0,2010-02-23 22:00:00,2010-02-25 16:00:00
+898,California Department of Water Resources,"San Joaquin Field Division/Bakersfield, CA",CA CA CA ,,2010-02-19 20:30:00,2010-02-20 04:01:00
+899,Allegheny Power,Western Pennsylvania nd Northeast Central WV,PA WV ,190000.0,2010-02-14 10:00:00,2010-02-14 12:00:00
+900,American Electric Power,"East Texas, Western Arkansas, Northern Lousiania",AR TX ,52999.0,2010-02-12 05:00:00,2010-02-12 17:00:00
+901,Oncor Electric Delivery Company,Dallas/Fort Worth and East Texas,TX ,500000.0,2010-02-11 12:00:00,2010-02-15 21:00:00
+902,Exelon Corporation,Southeastern Pennsylvania,PA ,223000.0,2010-02-09 18:00:00,2010-02-14 16:00:00
+903,Delmarva Power & Light Company,Delmarva Peninsula,,58491.0,2010-02-06 08:00:00,2010-02-06 09:00:00
+904,Dominion,"Virginia, North Carolina",NC VA ,104736.0,2010-02-06 02:30:00,2010-02-07 07:00:00
+905,Duke Energy Carolinas,North and South Carolina,SC ,74000.0,2010-02-05 18:48:00,2010-02-07 17:00:00
+906,Atlantic City Electric,Southern NJ,NJ ,221000.0,2010-02-05 15:00:00,2010-02-13 16:00:00
+907,Potomac Electric Power Co,"District of Columbia, Prince Georges and Montgomery Co. MD",MD ,97651.0,2010-02-05 19:00:00,2010-02-12 15:46:00
+908,Duquesne Light Company,Southwestern Pennsylvania,PA ,57000.0,2010-02-05 22:30:00,2010-02-12 12:00:00
+909,American Electric Power,"Indiana, Ohio, W. Virginia and Virginia",IN OH VA ,102225.0,2010-02-05 23:30:00,2010-02-07 02:38:00
+910,Western Farmers Electric Cooperative,Oklahoma,OK ,0.0,2010-02-01 14:32:00,2010-02-01 17:00:00
+911,American Electric Power,Oklahoma,OK ,68705.0,2010-01-28 12:00:00,2010-02-02 12:00:00
+912,Los Angeles Department of Water and Power,"City of Los Angeles, California",CA CA ,147223.0,2010-01-20 13:00:00,2010-01-24 18:10:00
+913,San Diego Gas & Electric Company,San Diego and Orange Counties,CA ,50000.0,2010-01-19 14:30:00,2010-01-20 15:00:00
+914,California ISO,San Francisco,CA CA ,30000.0,2010-01-19 07:30:00,2010-01-19 12:24:00
+915,Pacific Gas and Electric Company,Northern and Central California,CA ,1700000.0,2010-01-18 11:30:00,2010-01-28 08:00:00
+916,Progress Energy Florida,Northern and Central Florida,FL FL ,,2010-01-11 03:45:00,2010-01-11 09:57:00
+917,Southwest Louisiana Electric Membership Corporation,Southwest Louisiana,LA ,,2010-01-06 18:00:00,2010-01-08 18:00:00
+918,American Electric Power,"West Virginia, Kentucky, Ohio",WV KY OH ,403913.0,2009-12-18 20:00:00,2009-12-25 21:30:00
+919,Progress Energy Carolinas Inc,Western North Carolina,NC ,47000.0,2009-12-18 22:55:00,2009-12-19 23:15:00
+920,Detroit Edison,Michigan,MI MI ,65562.0,2009-12-10 17:45:00,2009-12-12 08:00:00
+921,American Electric Power,Ohio,OH ,48102.0,2009-12-09 13:37:00,2009-12-10 06:30:00
+922,California Independent System Operator,California,CA CA ,,2009-12-08 06:34:00,2009-12-08 12:00:00
+923,Arizona Public Service,Arizona,AZ ,140000.0,2009-12-08 01:00:00,2009-12-10 11:00:00
+924,California Department of Water Resources,California,CA CA ,,2009-12-07 22:00:00,2009-12-08 04:00:00
+925,California Dept of Water Resources,"Central Valley, CA",CA CA ,,2009-11-18 06:15:00,2009-11-18 10:00:00
+926,Dominion VirginiaPower/Dominion North Carolina Power,"Southeastern Virginia, Northeastern North Carolina",NC VA ,335000.0,2009-11-12 18:45:00,2009-11-14 04:25:00
+927,Sacramento Municipal Utility District,Sacramento County,CA ,94000.0,2009-10-13 15:45:00,2009-10-13 17:50:00
+928,Western Area Power Administration Upper Great Plains Region,Southeastern Wyoming,WY ,35500.0,2009-10-13 12:48:00,2009-10-13 14:34:00
+929,Pacific Gas and Electric,Northern California,CA ,859554.0,2009-10-13 16:00:00,2009-10-13 22:30:00
+930,California Department of Water Resources,"Central Valley, CA (Bakersfield, CA)",CA CA CA ,,2009-10-09 18:30:00,2009-10-09 19:10:00
+931,Entergy Corporation,Arkansas and North Louisiana,AR LA ,56000.0,2009-10-09 22:45:00,2009-10-11 16:00:00
+932,Detroit Edison,Southeast Michigan,MI MI ,75000.0,2009-10-07 05:45:00,2009-10-09 23:00:00
+933,Los Angeles Department of Water and Power,"City of Los Angeles, California",CA CA ,,2009-08-31 10:31:00,2009-08-31 00:00:00
+934,Western Area Power Administration Upper Great Plains Region,Western South Dakota,SD ,18.0,2009-08-29 11:00:00,2009-08-29 14:01:00
+935,Midwest ISO,Western South Dakota,SD ,0.0,2009-08-29 22:54:00,2009-08-29 23:53:00
+936,CenterPoint Energy,Houston Metropolitan Service Area,TX ,80000.0,2009-08-21 19:00:00,2009-08-22 08:00:00
+937,CenterPoint Energy,South Houston Service Area,TX ,73000.0,2009-08-12 18:25:00,2009-08-12 10:00:00
+938,Consumers Energy,"Michigan, Lower Peninsula",MI ,58156.0,2009-08-09 19:31:00,2009-08-10 09:59:00
+939,Detroit Edison,Western Region of Service Territory,MI ,137000.0,2009-08-07 23:00:00,2009-08-11 22:00:00
+940,ERCOT ISO,ERCOT Region,CO ,,2009-08-05 15:00:00,2009-08-05 19:00:00
+941,Duke Energy Midwest,"Northern Kentucky, Southwest Ohio and Central and South Indiana",IN KY OH ,63700.0,2009-08-04 13:45:00,2009-08-08 21:00:00
+942,PECO Energy,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsyvania",DE ,70264.0,2009-08-02 02:17:00,2009-08-03 13:09:00
+943,PacificCorp,Salt Lake City Utah and Northern Utah,UT ,,2009-07-28 20:18:00,2009-07-28 20:33:00
+944,Tennessee Valley Authority,"Chattanooga, Tennessee",TN ,,2009-07-27 05:05:00,2009-07-27 05:47:00
+945,Crockett Cogeneration,"San Francisco Bay Area, California",CA CA ,1.0,2009-07-21 05:34:00,2009-07-21 08:43:00
+946,Public Service Company of Colorado,"Metro Denver (Jefferson, Adams, and Arapahoe Counties)",,86058.0,2009-07-20 21:50:00,2009-07-22 19:00:00
+947,CenterPoint Energy,Houston/Galveston Area,TX ,73000.0,2009-07-18 19:00:00,2009-07-19 21:00:00
+948,AEP West,AEP SWEPCO/Louisiana Area,CO LA ,,2009-07-16 13:00:00,2009-07-16 18:00:00
+949,AEP West,AEP SWEPCO/Louisiana Area,CO LA ,,2009-07-15 13:00:00,2009-07-15 18:00:00
+950,AEP West,AEP SWEPCO/Louisiana Area,CO LA ,,2009-07-14 13:00:00,2009-07-14 18:00:00
+951,ERCOT ISO,ERCOT Region,CO ,,2009-07-08 13:30:00,2009-07-08 19:00:00
+952,ERCOT ISO,"San Antonio, Texas",TX ,,2009-07-07 15:30:00,2009-07-07 19:00:00
+953,ISO New England,Northern Maine,ME ,0.0,2009-07-02 22:44:00,2009-07-03 01:25:00
+954,Connecticut Light and Power,Central Connecticut,CT ,50752.0,2009-06-26 17:00:00,2009-06-29 09:00:00
+955,Duke Energy Midwest,"Southwest Ohio, Northern Kentudky, Central and Southern Indiana",IN OH ,85000.0,2009-06-26 01:00:00,2009-06-27 09:00:00
+956,Detroit Edison,Western Region of Service Territory,MI ,118000.0,2009-06-25 15:30:00,2009-06-28 20:00:00
+957,ERCOT ISO,ERCOT Region,CO ,,2009-06-25 15:16:00,2009-06-25 19:00:00
+958,SW Louisiana Electric Membership Corp/ Louisiana Generating LLC,Southwest Louisiana,LA ,,2009-06-24 13:30:00,2009-06-24 22:00:00
+959,Exelon Corporation ComEd,The Entire ComEd Service Territory,,245000.0,2009-06-19 13:00:00,2009-06-19 23:59:00
+960,Consumers Energy,Michigan Lower Peninsula,MI ,99000.0,2009-06-19 00:01:00,2009-06-21 23:00:00
+961,California Department of Water Resources,A.D. Edmonston Pumping Plant,CA ,0.0,2009-06-16 23:00:00,2009-06-17 02:00:00
+962,Tennessee Valley Authority,"Chattanooga, Tennessee",TN ,136000.0,2009-06-12 16:37:00,2009-06-12 18:53:00
+963,Southern Company,Georgia,GA ,102000.0,2009-06-12 22:00:00,2009-06-13 18:00:00
+964,Entergy Corporation,"Arkansas, North Mississippi",AR MS ,81645.0,2009-06-12 17:45:00,2009-06-15 23:59:00
+965,"Oncor Electric Delivery Company, LLC",North and Central Texas,TX ,800000.0,2009-06-10 18:00:00,2009-06-14 10:00:00
+966,Baltimore Gas and Electric,Central Maryland,MD ,85091.0,2009-06-09 17:25:00,2009-06-11 05:00:00
+967,Pacific Gas and Electric,East of Fresno California,CA ,70.0,2009-06-05 13:38:00,2009-06-05 20:18:00
+968,Big Rivers Electric Corporation,"Henderson County, Kentucky",KY ,1.0,2009-05-29 09:05:00,2009-05-29 19:57:00
+969,The Empire District Electric Company,SW Missouri,MO ,83000.0,2009-05-08 07:30:00,2009-05-08 09:00:00
+970,Ameren,Southern Illinois,IL ,68800.0,2009-05-08 13:30:00,2009-05-14 23:20:00
+971,CenterPoint Energy,Greater Houston/Galveston Area,TX ,158000.0,2009-04-27 15:30:00,2009-04-28 11:30:00
+972,Detroit Edison,Western Region of Service Territory,MI ,125000.0,2009-04-25 14:30:00,2009-04-29 01:00:00
+973,Constellation Energy,"Ruston, Louisiana",LA ,11000.0,2009-04-24 11:09:00,2009-04-24 11:21:00
+975,Southern California Edison Co,"Communities of Elsinore, Hemet, Moreno Valley, Perris, San Jacinto and Temecula in the southeastern area of Riverside County in California",CA CA ,280000.0,2009-04-23 17:54:00,2009-04-23 19:58:00
+976,Puget Sound Energy,"Skagit County, Washington",WA WA ,93300.0,2009-04-23 16:25:00,2009-04-24 00:29:00
+977,Southern Company,Alabama and Georgia,AL GA ,56679.0,2009-04-10 22:00:00,2009-04-11 02:30:00
+978,Consumers Energy,"Michigan, Lower Peninsula",MI ,70793.0,2009-04-06 01:00:00,2009-04-08 12:00:00
+979,Crockett Cogeneration,"San Francisco Bay Area, California",CA CA ,,2009-03-08 22:16:00,2009-03-08 23:45:00
+980,American Electric Power,"Roanoke, Virginia",VA ,0.0,2009-03-03 22:00:00,2009-03-04 20:17:00
+981,"New Covert Generating Company, LLC",Southwest Michigan,MI ,,2009-03-03 06:48:00,2009-04-26 06:05:00
+982,Dominion Virginia/North Carolina Power,Central Virginia - Spotsylvania County,VA ,217000.0,2009-03-01 22:00:00,2009-03-03 18:00:00
+983,Duke Energy Carolinas,Duke Energy Carolinas Balance Authority,,180000.0,2009-03-01 20:54:00,2009-03-03 16:06:00
+984,El Paso Electric Company,"City of El Paso, Texas, County of El Paso",TX ,132000.0,2009-03-01 00:15:00,2009-03-01 03:00:00
+985,Southern Company,Southern Balancing Area,,60000.0,2009-03-01 16:00:00,2009-03-01 23:25:00
+986,Central Maine Power Company,Southern Central and Western Maine,ME ,131000.0,2009-02-23 02:38:00,2009-02-24 13:46:00
+987,Ohio Edison Company,Central and Eastern Ohio,OH ,184000.0,2009-02-13 02:30:00,2009-02-15 03:00:00
+988,Midwest ISO,Central and Eastern Ohio,OH ,184000.0,2009-02-12 02:30:00,2009-02-12 06:00:00
+989,Penelec,Western and North Eastern Pennsylvania,PA ,132000.0,2009-02-12 08:00:00,2009-02-15 22:00:00
+990,Allegheny Power,"Maryland, Virginia, West Virginia and Pennsylvania",MD PA VA WV ,374644.0,2009-02-11 18:18:00,2009-02-16 20:10:00
+991,American Electric Power,"Kentucky, West Virginia and Ohio",KY WV OH ,279813.0,2009-02-11 18:00:00,2009-02-13 17:00:00
+992,Midwest ISO,Northern Kentucky and Southwest Ohio,KY OH ,63000.0,2009-02-11 21:00:00,2009-02-12 12:00:00
+993,CenterPoint Energy,"Houston, Texas",TX TX ,64801.0,2009-02-11 02:30:00,2009-02-11 12:00:00
+994,Louisville Gas and Electric/Kentucky Utilities,State of Kentucky,KY ,78000.0,2009-02-11 19:00:00,2009-02-12 11:00:00
+995,Midwest ISO,East Central Missouri,MO ,1.0,2009-01-28 00:10:00,2009-01-30 21:20:00
+996,Duke Energy Ohio,Northern Kentucky and Southwest Ohio,KY OH ,53600.0,2009-01-28 10:00:00,2009-01-30 21:20:00
+997,Duke Energy Indiana,Southern Indiana,IN ,53700.0,2009-01-28 07:50:00,2009-02-13 08:03:00
+998,Midwest ISO,"Illinois, Indiana, Ohio and Kentucky",IL IN KY OH ,230300.0,2009-01-28 03:00:00,2009-02-13 08:03:00
+999,Tennessee Valley Authority,Northeast Tennessee and Southwest Kentucky,KY TN ,109527.0,2009-01-28 09:00:00,2009-02-05 08:00:00
+1000,Vectren Energy Delivery of Indiana,"Indiana, Evansville, Metro Area",IN ,75000.0,2009-01-28 06:00:00,2009-02-05 18:00:00
+1001,Henderson Municipal Power and Light,"City of Henderson, Kentucky and Portions of Henderson County, Kentucky",KY ,3500.0,2009-01-28 04:00:00,2009-02-07 17:00:00
+1002,American Electric Power,CSWS-AEP West,,59402.0,2009-01-27 15:43:00,2009-01-29 09:00:00
+1003,Big Rivers Electric Corporation,Western Kentucky and Southern Indiana,IN KY ,3.0,2009-01-27 07:10:00,2009-02-04 19:30:00
+1004,"Associated Electric Cooperative, Inc.",South Central and Southeast Missouri,MO ,62500.0,2009-01-27 11:00:00,2009-01-30 18:00:00
+1005,Arkansas Electric Cooperative Corporation,Northern Arkansas,AR ,215700.0,2009-01-27 21:00:00,2009-01-29 06:00:00
+1006,"East Kentucky Power Cooperative, Inc.",Central and Eastern Kentrucky,KY ,190000.0,2009-01-27 05:03:00,2009-01-31 17:15:00
+1007,Entergy Corporation,Northern Arkansas,AR ,111818.0,2009-01-27 13:46:00,2009-02-03 17:00:00
+1008,Louisville Gas and Electric/Kentucky Utilities,State of Kentucky,KY ,383000.0,2009-01-27 05:00:00,2009-01-29 16:30:00
+1009,Tennessee Valley Autbority,TVA Service Territory,TN ,1.0,2009-01-27 21:45:00,2009-01-27 22:17:00
+1010,Crawfordsville Electric Light and Power,"Crawfordsville, Indiana",IN ,9700.0,2009-01-22 16:00:00,2009-01-22 17:05:00
+1011,"State Line Energy, LLC","PJM, Indiana",IN ,,2009-01-17 08:00:00,2009-01-25 08:00:00
+1012,Florida Keys Electric Cooperative Assoc. Inc.,Florida Keys,FL FL ,31000.0,2009-01-08 23:46:00,2009-01-09 11:25:00
+1013,Duke Energy Carolinas,Piedmont of North and South Carolina,SC ,70000.0,2009-01-07 17:00:00,2009-01-07 20:05:00
+1014,"Oncor Electric Delivery Company, LLC",North and Central Texas,TX ,157019.0,2009-01-05 05:00:00,2009-01-06 18:00:00

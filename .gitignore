@@ -1,0 +1,4 @@
+# Ignore files
+secret_twitter_credentials.pkl
+.DS_Store
+.ipynb_checkpoints/
